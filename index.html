@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title> DevConf | Somos caipira e gostamos de tecnologia! </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/custom-google-maps.css">
+  <link rel="stylesheet" href="assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/sponsors.css">
+  <link rel="stylesheet" href="assets/css/speaker.css">
+  <link rel="stylesheet" href="assets/css/schedule.css">
+  <link rel="stylesheet" href="assets/css/about.css">
+  <link rel="stylesheet" href="assets/css/partners.css">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="DevConf - Somos caipira e gostamos de tecnologia! " />
+  <meta property="og:type" content="programação, docker, agile, javascript, mobile" />
+  <meta property="og:site_name" content="DevConf" />
+  <meta property="og:url" content="http://opensanca.com.br/devconf/" />
+  <meta property="og:image" content="http://opensanca.com.br/devconf/assets/img/Love-Coding.jpg" />
+
+  <!-- IE polyfills, keep the order please -->
+  <!-- <script src="../assets/js/modenizr-custom.js"></script> -->
+</head>
+<body>
+
+  <header role="banner" class="header">
+    <div class="wrapper">
+      <a href="/" class="logo">
+        Your Ticket
+        <img class="logo__image" src="assets/img/opensanca.svg" alt="DevConf">
+      </a>
+      <div class="award">
+        <div>
+          <p class="award__title">DevConf 2017</p>
+          <p>
+            Somos caipira e gostamos de tecnologia
+          </p>
+        </div>
+      </div>
+      <button role="button" class="nav__hamburger">
+        <span class="nav__hamburger__box">
+          <span class="nav__hamburger__inner"></span>
+        </span>
+      </button>
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a href="#" class="nav__link ">
+              Your Ticket!
+              <img class="nav__item-drop" src="assets/img/arrow-dropdown--dark.svg" alt="your ticket">
+            </a>
+            <nav class="dropdown">
+              <ul class="dropdown__list">
+                <li class="dropdown__item">
+                  <a href="http://even.tc/devconf" class="nav__link dropdown__link" target="_blank">
+                    <img src="assets/img/trophy.svg" alt="">
+                    <div class="dropdown__link__info">
+                      <h2 class="dropdown__link__title">Lote I</h2>
+                      <div class="col-md-6">
+                        <i class="fa fa-calendar-o"></i> até 11/04  <br>
+                        <i class="fa fa-money"> R$ 40,00</i> <br>
+                      </div>
+                      <div class="col-md-6">
+                        <button type="button" class="btn btn-success">
+                          Eu quero!
+                        </button>
+                      </div>
+                      <hr>
+                    </div>
+                  </a>
+                </li>
+                <li class="dropdown__item">
+                  <a href="javascript:void();" class="nav__link dropdown__link">
+                    <img src="assets/img/trophy.svg" alt="">
+                    <div class="dropdown__link__info">
+                      <h2 class="dropdown__link__title">Lote II</h2>
+                      <div class="col-md-6">
+                        <i class="fa fa-calendar-o"></i> até 21/04  <br>
+                        <i class="fa fa-money"> R$ 50,00</i> <br>
+                      </div>
+                      <div class="col-md-6">
+                        <button type="button" class="btn btn-success" disabled="disabled">
+                          Eu quero!
+                        </button>
+                      </div>
+                      <hr>
+                    </div>
+                  </a>
+                </li>
+                <li class="dropdown__item">
+                  <a href="javascript:void();" class="nav__link dropdown__link">
+                    <img src="assets/img/trophy.svg" alt="">
+                    <div class="dropdown__link__info">
+                      <h2 class="dropdown__link__title">Lote III</h2>
+                      <div class="col-md-6">
+                        <i class="fa fa-calendar-o"></i> até 20/05 <br>
+                        <i class="fa fa-money"> R$ 60,00</i> <br>
+                      </div>
+                      <div class="col-md-6">
+                        <button type="button" class="btn btn-success" disabled="disabled">
+                          Eu quero!
+                        </button>
+                      </div>
+                      <hr>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </li>
+          <li class="nav__item">
+            <a href="#schedule" class="nav__link ">
+              Programação
+              <span class="nav__tag">
+                <i class="fa fa-star-o"></i>
+              </span>
+            </a>
+          </li>
+          <li class="nav__item">
+            <a href="#about" class="nav__link ">
+              Sobre
+            </a>
+          </li>
+          <li class="nav__item">
+            <a href="#sponsor" class="nav__link ">
+              Sponsor
+            </a>
+          </li>
+          <li class="nav__item nav__item--divider">
+            <a href="#contato" class="nav__link">
+              Contato
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+
+  <section class="hero">
+    <div class="hero__container">
+      <div class="wrapper">
+        <div class="hero__content">
+          <span>Somos caipira e gostamos de tecnologia.</span>
+          <h1 class="hero__title">
+            DevConf
+          </h1>
+          <h2 class="hero__strapline">
+            by <a class="hero__link" href="https://opensanca.com" target="_blank">Opensanca</a> | Conhecimento é livre!
+          </h2>
+
+        </div>
+      </div>
+    </div>
+    <div class="hero__background">
+      <div class="hero__gradient">
+        <div class="hero__video">
+          <div class="hero__player">
+            <div class="player">
+              <video poster="https://s3.amazonaws.com/coverr-public/poster/Aloha-Mundo.jpg" autoplay="autoplay" loop="loop">
+                <source src="assets/img/Aloha-Mundo.mp4">
+                </video>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="about" id="about">
+      <div class="wrapper">
+
+        <div class="row">
+          <div class="col-md-offset-2 col-md-8">
+            <h2> DevConf</h2>
+            <br>
+            <p>
+              Acreditamos que o conhecimento é livre, e essa crença nos inspirou a organizar o DevConf!
+              O DevConf é um evento de tecnologia sem fins lucrativos organizado pelo Opensanca, a maior comunidade ativa
+              de tecnologia do interior de São Paulo, em parceria com a UFSCar e IFSP São Carlos.
+              A proposta desta edição do evento é colocar em discussão temas atuais de tecnologia como Mobile,
+              Desenvolvimento Web, Internet das Coisas, Segurança da Informação e Empreendedorismo.
+              Iremos promover apresentações com alto nível de conhecimento e relevância e, estimular a troca de
+              experiência e network entre a comunidade de tecnologia do interior, que é caipira mas ama e se move por tecnologia!
+              O evento irá acontecer no dia 27 de Maio de 2017, no Anfiteatro Bento Prado da Universidade
+              Federal de São Carlos (UFSCar) em São Carlos/SP. Esperamos um público aproximado de 200 pessoas,
+              entre estudantes, profissionais de tecnologia e entusiastas da região!
+              <div class="text-center">
+                <a href="" target="_blank" class="button__tertiary" name="button">Garanta sua vaga!</a>
+              </div>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="speaker" id="speaker">
+      <div class="wrapper">
+        <h2 class="section-title"> Speakers</h2>
+
+        <div class="speaker__profile">
+          <div class="row">
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Loiane Groner @Citibank" data-bio="Possui 10+ anos de experiência em TI, trabalha como desenvolvedora FullStack em uma empresa multinacional e ama compartilhar conhecimento! Já palestrou por vários eventos no Brasil e ministrou cursos nos Estados Unidos. Autora dos livros: Ext JS 4 First Look, Mastering Ext JS (primeira e segunda edição), Sencha Architect App Development e Learning JavaScript Data Structures and Algorithms (primeira e segunda edição), JavaScript Regular Expressions - todos publicados pela editora Packt e lançados mundialmente em inglês (com tradução de alguns livros para chinês e coreano). Espera poder lançar livros em Português em breve. Entusiasta Java, Sencha, Angular e mobile híbrido (Phonegap/Ionic). Participa ativamente dessas comunidades. Escreve para o blog http://loiane.com e publica aulas e cursos em http://loiane.training.">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/loiane_groner.jpg" alt="Loiane Groner">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Loiane Groner @Citibank</a></h3>
+                <p class="hide"></p>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div> <!--/col-xs-6-->
+
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Ubiratan Soares @luizalabs" data-bio="Ubiratan é Engenheiro de Software trabalhando diariamente com aplicações móveis desde 2010, com foco na criação de apps profissionais com performance e código robusto. Interessa-se também por Java e especialmente o ecossistema da JVM, incluindo Kotlin e Scala. Defensor de melhores práticas de desenvolvimento e programação reativa, foi nomeado em 2015 Google Developer Expert para Android e Intel Software Innovator em 2014.">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/ubiratan_soares.jpg" alt="Ubiratan Soares">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Ubiratan Soares @luizalabs </a></h3>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Alex Ferreira @Locaweb" data-bio="">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/alex_ferreira.jpg" alt="Alex Ferreira">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Alex Ferreira @Locaweb </a></h3>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Carlos Rodrigues @FCamara" data-bio="">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/carlos_rodrigues.jpg" alt="Carlos Rodrigues">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Carlos Rodrigues @FCamara </a></h3>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div> <!--/row-->
+
+          <div class="row top30">
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Rafael Girolineto @CasCafé" data-bio="">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/rafael_girolineto.jpg" alt="Rafael Girolineto">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Rafael Girolineto @CasCafé </a></h3>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Gustavo Pereira @Academia PME" data-bio="">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/gustavo_pereira.jpg" alt="Gustavo Pereira">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Gustavo Pereira @Academia PME </a></h3>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Romulo Scampini @Touch Health" data-bio="">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/romulo_scampini.jpg" alt="Romulo Scampini">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Romulo Scampini @Touch Health </a></h3>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div> <!--/col-xs-6-->
+
+            <div class="col-xs-6 col-md-3 speaker__profile-info" data-name="Pedro Barros @Programmer's" data-bio="">
+              <a href="#" class="thumbnail show-modal-info">
+                <img src="assets/img/pedro_barros.jpg" alt="Pedro Barros">
+              </a>
+              <div class="speaker__profile-about">
+                <h3 class="text-center"> <a href="#" class="show-modal-info">Pedro Barros @Programmer's </a></h3>
+                <div class="speaker__profile-social">
+                  <a href="#" target="_blank"><i class="fa fa-twitter"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-linkedin"></i> </a>
+                  <a href="#" target="_blank"><i class="fa fa-github"></i> </a>
+                </div>
+              </div>
+            </div>
+
+
+          </div> <!--/row-->
+
+        </div> <!--/speaker__profile-->
+      </div> <!--/wrapper-->
+    </section>
+
+
+    <section class="schedule" id="schedule">
+      <div class="wrapper">
+        <h2 class="section-title">Schedule</h2>
+
+        <ul class="schedule-items">
+          <li>08:00 - 08:30 | Credenciamento</li>
+          <li>08:30 - 09:00 | Abertura</li>
+          <li>
+            <label for="schedule-item-1" class="see-details-link"> 09:00 - 10:00 |
+                Escaping from the framework, guided by Clean Archictecture - Ubiratan Soares @LuizaLabs
+            </label>
+            <input type="checkbox" id="schedule-item-1" class="see-details"/>
+            <p class="details">
+                Nessa palestra, nós vamos discutir causas e consequências do acoplamento de uma aplicação a frameworks / ferramentas, e como podemos "descolar" nosso sistema desses detalhes de implementação através de arquitetura de software.<br/>
+                Arquitetura limpa - Clean Architecture - é um nome proposto pelo mito Uncle Bob Martin para descrever um estilo de projetar sistemas de maneira que o centro esteja naquilo que mais importa : aquilo que o software deve fazer - trazendo como benefícios manutenabilidade, extensibilidade, testabilidade e principalmente, independência em relação a peças que eventualmente podem ser substituídas.
+            </p>
+          </li>
+          <li>
+            <label for="schedule-item-2" class="see-details-link">10:00 - 10:45 |
+              Docker para desenvolvedores - Romulo Scampini @Touch Health
+            </label>
+            <input type="checkbox" id="schedule-item-2" class="see-details"/>
+            <p class="details">
+                Porque todos os dev's deveriam utilizar Docker?<br/>
+                Qual a diferença entre Containers (Docker) e Virtualização?<br/>
+                Essas e outras questões sobre Docker, principalmente com foco no desenvolvedor serão abordadas.
+            </p>
+          </li>
+          <li>10:45 - 11:00 | Coffee Break</li>
+          <li>
+            <label for="schedule-item-3" class="see-details-link">11:00 - 12:00 |
+              Apps Mobile híbridas com Ionic 2 - Loiane Groner @CityBank
+            </label>
+            <input type="checkbox" id="schedule-item-3" class="see-details"/>
+            <p class="details">
+              Ionic 2 é um framework open source para desenvolvimento de aplicativos mobile híbrido, onde se pode desenvolver o aplicativo usando HTML/CSS e JavaScript, fazer acesso nativo usando essas tecnologias e compilar o app para diferentes plataformas como iOS, Android e Windows Phone e publicá-lo nas respectivas app stores.<br/>
+              O Ionic 2 é baseado em frameworks também open source e populares no mercado: Phonegap/Cordova, Angular2 e Sass (CSS).<br/>
+              Vamos aprender como criar um app em alguns minutos usando os principais conceitos do Angular 2 como Módulos, Components, Templates, Diretivas e Serviços + RxJS Observables.
+            </p>
+          </li>
+          <li>Almoço</li>
+          <li>
+              <label for="schedule-item-4" class="see-details-link">14:00 - 15:00 |
+                  Palestra - Alex Ferreira @Locaweb
+              </label>
+              <input type="checkbox" id="schedule-item-4" class="see-details"/>
+              <p class="details">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+            </li>
+            <li>
+              <label for="schedule-item-5" class="see-details-link">15:00 - 16:00 |
+                  Evolução do JavaScript - Pedro Barros @Programmer's
+              </label>
+              <input type="checkbox" id="schedule-item-5" class="see-details"/>
+              <p class="details">
+                  Atualmente estamos cada dia mais conectado a aplicações dinâmicas e interativas e tudo isso graças a evolução da internet que tem sido muito intesa.<br/>
+                  O Javascript tem sido uma linguagem fundamental para essa evolução e a cada dia está mais presente em nossas vidas, queira ou não queira.<br/>
+                  Essa palestra abordará toda evolução do Javascript desde o DHTML até os dias atuais onde temos Javascript no servidor, mostrando assim todo o seu poder atuamente e como será o seu futuro.
+              </p>
+            </li>
+            <li>16:00 - 16:30 | Coffee Break</li>
+            <li>
+                <label for="schedule-item-6" class="see-details-link">16:30 - 17:30 |
+                  Microserviços o mal do século XXI na criação de empresas - Gustavo Pereira @Academia PME
+                </label>
+                <input type="checkbox" id="schedule-item-6" class="see-details"/>
+                <p class="details">
+                    Palestra irá apresentar o por que não se deve iniciar a criação de um sistema com microserviços, quando se está iniciando uma empresa. Hoje em dia essa arquitetura é altamente utilizada mas sem haver a necessidade com isso muitas empresas acabam quebrando sem ter o seu produto lançado.
+                </p>
+              </li>
+              <li>
+                <label for="schedule-item-7" class="see-details-link">17:30 - 18:30 |
+                    Gerenciando o roadmap do seu produto com MVP Canvas - Carlos Rodrigues @FCamara
+                </label>
+                <input type="checkbox" id="schedule-item-7" class="see-details"/>
+                <p class="details">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+              </li>
+              <li>
+                <label for="schedule-item-8" class="see-details-link">18:30 - 19:30 |
+                    Separando uma aplicação monolítica- Rafael Girolineto @CasCafé
+                </label>
+                <input type="checkbox" id="schedule-item-8" class="see-details"/>
+                <p class="details">
+                    Objetivo desta proposta é apresentar como estudo de caso o trabalho em andamento no CasaeCafe.com para separar uma aplicação monolítica. Estaremos vendo sobre Problemas de escalabilidade em aplicações monolíticas, quando separar o monolito e soluções de arquitetura, trocando a roda com o carro em movimento, como executar essa transição, principais dificuldades e resultados obtidos
+                </p>
+              </li>
+              <li>19:30 - 00:00 | After Party @BlackBird </li>
+            </ul>
+          </div>
+        </section>
+
+
+        <section class="sponsors" id="sponsor">
+          <div class="wrapper">
+            <h2 class="section-title">Sponsors</h2>
+
+            <div class="sponsor-category diamond">
+              <h3 class="text-center">Diamond</h3>
+              <div class="brands__logos">
+                <a href="http://monitoratec.com.br/pt" target="_blank">
+                  <img src="assets/img/monitora.png" alt="Company Monitora">
+                </a>
+                <a href="https://www.lendico.com.br/" target="_blank">
+                  <img src="assets/img/lendico.png" alt="Company Lendico">
+                </a>
+                <a href="http://s2it.com.br/" target="_blank">
+                  <img src="assets/img/s2it.png" alt="Company S2it">
+                </a>
+
+              </div>
+            </div>
+
+            <div class="sponsor-category gold">
+              <h3 class="text-center">Gold</h3>
+              <div class="brands__logos">
+
+                <a href="http://www.calamar.io/" target="_blank">
+                <img src="assets/img/calamar.png" alt="Company Calamar">
+                </a>
+                <a href="https://www.fcamara.com.br/" target="_blank">
+                <img src="assets/img/fcamara.png" alt="Company FCamara">
+              </a>
+              </div>
+            </div>
+
+            <div class="sponsor-category silver">
+              <h3 class="text-center">Silver</h3>
+                <div class="brands__logos">
+                </div>
+            </div>
+
+            <div class="sponsor-category bronze">
+              <h3 class="text-center">Bronze</h3>
+                <div class="brands__logos">
+                  <a href="http://luizalabs.com/" target="_blank">
+                  <img src="assets/img/luiza-labs.png" alt="Company Luiza Labs">
+                </a>
+                </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="partners" id="partner">
+            <div class="wrapper">
+                <h2 class="section-title">Partners</h2>
+
+                <div class="partners__logos">
+                    <a href="http://www.ifspsaocarlos.edu.br/portal/" target="_blank">
+                        <img src="assets/img/logo-ifsp.png" alt="Logo IFSP"/>
+                    </a>
+                    <a href="http://www2.ufscar.br/" target="_blank">
+                        <img src="assets/img/logo-ufscar.png" alt="Logo UFSCar"/>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="googleMaps" id="cd-google-map">
+          <div id="google-container"></div>
+          <div id="cd-zoom-in"></div>
+          <div id="cd-zoom-out"></div>
+          <address>Anfiteatro Bento Prado Junior -  UFSCar | Rod. Washington Luis, km 235 - São Carlos/SP</address>
+        </section>
+
+        <footer class="footer" role="contentinfo">
+          <div class="wrapper">
+            <div class="footer__info">
+              <div class="footer__info-brand">
+                <img src="assets/img/opensanca.svg" alt="DevConf - Somos Caipira e gostamos de Tecnologia">
+                <p>
+                  DevConf - Somos caipiras e gostamos de tecnologia © 2017.
+                </p>
+              </div>
+              <div class="footer__info-social">
+                <a href="https://twitter.com/opensanca" target="_blank">
+                  <img src="assets/img/twitter.svg" class="footer__info-icon" alt="">
+                </a>
+                <a href="https://facebook.com/opensanca" target="_blank">
+                  <img src="assets/img/facebook.svg" class="footer__info-icon" alt="">
+                </a>
+                <a href="https://github.com/opnensaca" target="_blank">
+                  <img src="assets/img/github.svg" class="footer__info-icon" alt="">
+                </a>
+              </div>
+            </div>
+            <div class="footer__contact footer__contact--mobile">
+              <p>Enviar e-mail para</p>
+              <a href="mailto:contato@opensanca.com.br">
+                contato@opensanca.com
+              </a>
+              <div class="footer__info-social footer__info-social--mobile">
+                <a href="https://twitter.com/opensanca" target="_blank">
+                  <img src="assets/img/twitter.svg" class="footer__info-icon" alt="">
+                </a>
+                <a href="https://facebook.com/opensanca" target="_blank">
+                  <img src="assets/img/facebook.svg" class="footer__info-icon" alt="">
+                </a>
+                <a href="https://github.com/opnensaca" target="_blank">
+                  <img src="assets/img/github.svg" class="footer__info-icon" alt="">
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="wrapper">
+            <div class="footer__more">
+              <div class="footer__links">
+                <ul>
+                  <li><a href="#">Ticket</a></li>
+                  <li><a href="#">Sobre</a></li>
+                  <li><a href="#">Sponsor</a></li>
+                </ul>
+                <ul>
+                  <li><a href="/conduta/">Termos de Conduta</a></li>
+                </ul>
+              </div>
+              <div class="footer__contact">
+                <h6>Fale com os organizadores!</h6>
+                <a href="mailto:contato@opensanca.com.br">
+                  contato@opensanca.com.br
+                </a>
+              </div>
+            </div>
+          </div>
+        </footer>
+
+        <div class="modal fade" id="speakersModal" tabindex="-1" aria-labelledby="speakersModal">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="modalTitle"></h4>
+              </div>
+              <div class="modal-body" id="modalBody">
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Fechar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <script src="assets/js/jquery-1.12.4.min.js"></script>
+        <script src="assets/js/bootstrap.min.js" async="true"></script>
+        <script src="assets/js/main.js" async="true"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAiQ9MVvu3J-DL1uxMSempFbZNXlarEGs0"></script>
+
+
+      </body>
+      </html>

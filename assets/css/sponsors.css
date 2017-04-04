@@ -1,0 +1,84 @@
+.sponsors {
+  background: rgb(241, 196, 15);
+  color: #1b1917;
+}
+
+
+.sponsors .section-title {
+  margin-bottom: 50px;
+}
+
+.sponsor-category {
+  margin-bottom: 20px;
+}
+
+.sponsor-category h3 {
+  margin-bottom: 20px;
+  font-weight: bold;
+  background-color: #f3f3f3;
+  padding: 15px;
+  border-bottom: 2px solid;
+}
+
+.sponsor-category img {
+  width: 100px;
+}
+
+.sponsor-category.diamond h3 {
+  border-color: #b9f2ff;
+}
+
+.sponsor-category.gold h3 {
+  border-color: #d4af37;
+}
+
+.sponsor-category.silver h3 {
+  border-color: #c0c0c0;
+}
+
+.sponsor-category.bronze h3 {
+  border-color: #cd7f32;
+}
+
+.brands__logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  min-height: 200px;
+  flex-direction: column-reverse;
+}
+
+.brands__logos > a {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+@media (min-width: 600px) {
+  .brands__logos {
+    flex-direction: row;
+  }
+
+  .brands__logos > a {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 980px) {
+  .sponsor-category.diamond img {
+    width: 180px;
+  }
+
+  .sponsor-category.gold img {
+    width: 160px;
+  }
+
+  .sponsor-category.silver img {
+    width: 140px;
+  }
+
+  .sponsor-category.bronze img {
+    width: 120px;
+  }
+}

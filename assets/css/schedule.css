@@ -1,0 +1,37 @@
+.schedule {
+
+}
+
+.schedule-items {
+  list-style: none;
+  padding: 20px;
+  border: 2px solid #f2f2f2;
+  border-radius: 5px;
+}
+.schedule-items li {
+  padding: 10px;
+}
+
+.schedule-items li:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+.schedule-items li:nth-child(odd) {
+  background-color: rgb(43, 242, 207);
+}
+
+.schedule .see-details-link {
+  cursor: pointer;
+  margin-bottom: 0;
+  display: block;
+}
+
+.schedule .see-details,
+.schedule .details {
+  display: none;
+}
+
+.schedule .see-details:checked + .details {
+  display: block;
+  padding-top: 10px;
+}

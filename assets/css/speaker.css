@@ -1,0 +1,44 @@
+.speaker {
+    background: #951AA1;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #951AA1, #FC2AD6);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #951AA1, #FC2AD6);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #951AA1, #FC2AD6);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #951AA1, #FC2AD6);
+    /* Standard syntax */
+    color: #fafafa;
+}
+
+
+
+.speaker__profile-about a{
+  color: #fafafa;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: .9em;
+}
+
+.speaker__profile-about a:hover {
+  color: #f1c40f;
+}
+
+.speaker__profile-social {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.speaker__profile-social a {
+  margin-right: 10px;
+  text-align: center;
+  color: #fafafa;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.speaker__profile-social a:hover {
+  color: #f1c40f;
+
+}
