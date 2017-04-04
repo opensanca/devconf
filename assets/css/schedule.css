@@ -4,20 +4,36 @@
 
 .schedule-items {
   list-style: none;
-  padding: 20px;
+  padding: 10px;
   border: 2px solid #f2f2f2;
-  border-radius: 5px;
+  border-radius: 0;
+  font-weight: bold;
 }
 .schedule-items li {
   padding: 10px;
 }
 
+/*.schedule .see-details-link :hover {
+    color: #f9fbfd;
+}*/
+
 .schedule-items li:nth-child(even) {
   background-color: #f7f7f7;
 }
 
+.schedule-items li:nth-child(even):hover {
+  background-color: rgb(241, 196, 15)
+  color: #fafafa;
+}
+
 .schedule-items li:nth-child(odd) {
-  background-color: rgb(43, 242, 207);
+  background-color: rgb(188, 200, 241);
+}
+
+
+.schedule-items li:nth-child(odd):hover {
+  background-color: rgb(241, 196, 15);
+  color: #fafafa;
 }
 
 .schedule .see-details-link {

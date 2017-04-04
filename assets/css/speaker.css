@@ -1,18 +1,21 @@
 .speaker {
-    background: #951AA1;
-    /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(left, #951AA1, #FC2AD6);
-    /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(right, #951AA1, #FC2AD6);
-    /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(right, #951AA1, #FC2AD6);
-    /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to right, #951AA1, #FC2AD6);
-    /* Standard syntax */
-    color: #fafafa;
+  /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #951AA1, #FC2AD6);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #951AA1, #FC2AD6);
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #951AA1, #FC2AD6);
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #951AA1, #FC2AD6);
+  /* Standard syntax */
+  color: #fafafa;
 }
 
 
+.speaker__profile-about {
+  margin-top: 10px;
+
+}
 
 .speaker__profile-about a{
   color: #fafafa;
@@ -40,5 +43,99 @@
 
 .speaker__profile-social a:hover {
   color: #f1c40f;
+}
 
+a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+    border-color: transparent;
+}
+
+.speaker__grow { transition: all .2s ease-in-out;}
+.speaker__grow:hover { transform: scale(1.1);}
+
+
+
+
+/*animação do efeito hover do mouse sobre os thumbs*/
+
+.partner-logo {
+  position: relative;
+}
+
+.partner-logo figcaption {
+  -webkit-transition: all .5s;
+  -o-transition: all .5s;
+  transition: all .5s;
+  top: 0;
+  opacity: 0;
+  position: absolute;
+}
+
+@media(min-width:1024px) {
+
+  .partner-logo img {
+    -webkit-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%)
+
+  }
+
+  /* hover effects */
+  .partner-logo:hover img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+  .partner-logo:hover figcaption {
+    opacity: 1;
+    top: 60px;
+  }
+
+}
+
+@media(max-width: 767px) {
+  section {
+    padding: 0;
+  }
+  
+  .partner-logo {
+    display: block;
+float: left;
+  }
+}
+
+
+.button__speaker-about{
+    border: 0;
+    outline: 0;
+    line-height: 1;
+    text-align: center;
+    padding: 12px 30px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 2px;
+    display: inline-block
+}
+
+.button__speaker-about {
+    letter-spacing: -0.5px;
+    background: #1bbb7c;
+    padding: 15px 35px;
+    color: #fff;
+    margin: 140px 45px;
+    padding: 10px 26px;
+    border-radius: 100px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 15px;
+    -webkit-transition: background .3s,-webkit-box-shadow .3s;
+    transition: background .3s,-webkit-box-shadow .3s;
+    transition: background .3s,box-shadow .3s;
+    transition: background .3s,box-shadow .3s,-webkit-box-shadow .3s
+}
+
+.button__speaker-about:hover {
+    background: #18a56d
 }

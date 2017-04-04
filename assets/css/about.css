@@ -12,3 +12,26 @@
   text-align: justify;
   font-size: 1.2em;
 }
+
+
+
+.promo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.promo i {
+  font-size: 2.5em;
+}
+
+.promo span {
+  font-size: 1em;
+    display: block;
+    text-align: center;
+}
+
+.promo img {
+  width: 60px;
+  display: -webkit-inline-box;
+  padding-bottom: 15px;
+}

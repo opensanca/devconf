@@ -12,3 +12,10 @@
 .partners__logos img {
   width: 160px;
 }
+
+
+@media(max-width: 660px) {
+  .partners__logos img {
+      width: 100px;
+    }
+}
