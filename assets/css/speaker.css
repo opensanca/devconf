@@ -98,7 +98,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
   section {
     padding: 0;
   }
-  
+
   .partner-logo {
     display: block;
 float: left;
@@ -123,7 +123,7 @@ float: left;
     background: #1bbb7c;
     padding: 15px 35px;
     color: #fff;
-    margin: 140px 45px;
+    margin: 140px 45px 0 45px;
     padding: 10px 26px;
     border-radius: 100px;
     text-transform: uppercase;
