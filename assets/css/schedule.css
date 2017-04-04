@@ -23,7 +23,7 @@
 
 .schedule-items li:nth-child(even):hover {
   background-color: rgb(241, 196, 15)
-  color: #fafafa;
+  color: #222;
 }
 
 .schedule-items li:nth-child(odd) {
@@ -33,7 +33,7 @@
 
 .schedule-items li:nth-child(odd):hover {
   background-color: rgb(241, 196, 15);
-  color: #fafafa;
+  color: #222;
 }
 
 .schedule .see-details-link {
