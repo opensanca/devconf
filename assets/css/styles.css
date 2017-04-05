@@ -30,7 +30,7 @@ a {
 }
 
 a:focus, a:hover {
-    color: #fff;
+    color: #6594fb;
     text-decoration: none;
 }
 
@@ -228,7 +228,8 @@ i {
 }
 
 .button__tertiary:hover {
-    background: #18a56d
+    background: #18a56d;
+    color: #fff;
 }
 
 .header {
@@ -710,7 +711,8 @@ i {
     justify-content: space-between;
     border-bottom: 1px solid #eee;
     width: 100%;
-    padding: 0 0 35px
+    padding: 0 0 35px;
+    text-align: center;
 }
 
 @media only screen and (max-width: 520px) {
@@ -722,9 +724,9 @@ i {
 
 .footer__info-brand {
     -webkit-box-flex: 0;
-    -webkit-flex: 0 0 75%;
-    -ms-flex: 0 0 75%;
-    flex: 0 0 75%
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%
 }
 
 @media only screen and (max-width: 520px) {
