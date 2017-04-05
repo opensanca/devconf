@@ -31,10 +31,6 @@ jQuery(document).ready(function($){
 	var modalTriggerBts = $('a[data-type="cd-modal-trigger"]'),
 		coverLayer = $('.cd-cover-layer');
 
-	/*
-		convert a cubic bezier value to a custom mina easing
-		http://stackoverflow.com/questions/25265197/how-to-convert-a-cubic-bezier-value-to-a-custom-mina-easing-snap-svg
-	*/
 	var duration = 600,
 		epsilon = (1000 / 60 / duration) / 4,
 		firstCustomMinaAnimation = bezier(.63,.35,.48,.92, epsilon);
