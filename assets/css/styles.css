@@ -15,6 +15,11 @@ a {
     text-decoration: none
 }
 
+a:focus, a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
 img {
     -ms-interpolation-mode: bicubic;
     vertical-align: bottom
