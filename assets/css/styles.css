@@ -12,7 +12,21 @@ body {
 }
 
 a {
-    text-decoration: none
+    text-decoration: none;
+}
+
+.mobile-devconf {
+  width: 90px;
+  height: inherit;
+  top: 8px;
+  position: relative;
+}
+
+.mobile-text {
+  top: -4px;
+  position: relative;
+  font-size: 1.1em;
+  right: 40px;
 }
 
 a:focus, a:hover {
