@@ -42,6 +42,7 @@
   display: block;
 }
 
+
 .schedule .see-details,
 .schedule .details {
   display: none;
@@ -50,4 +51,14 @@
 .schedule .see-details:checked + .details {
   display: block;
   padding-top: 10px;
+}
+
+.schedule .schedule-details-link.disabled {
+  opacity: .5;
+  pointer-events: none;
+  cursor: defaut;
+}
+
+.schedule .schedule-details-link i {
+  margin-right: 5px
 }
