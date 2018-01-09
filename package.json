@@ -9,7 +9,7 @@
   "scripts": {
     "start": "npm install && gulp",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "gulp"
+    "postinstall": "gulp"
   },
   "author": "cristofersousa",
   "license": "MIT",
