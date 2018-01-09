@@ -1,0 +1,27 @@
+<section class="sponsors" id="sponsor">
+    <div class="wrapper">
+        {{#if sponsors}}
+            <h2 class="section-title">Sponsors</h2>
+
+            {{#each sponsors }}
+                <div class="sponsor-category {{@key}}">
+                    <h3 class="text-center">{{@key}}</h3>
+                    <div class="brands__logos">
+                        {{#each this}}
+                            <a href="{{link}}" target="_blank">
+                                <img src="{{logo}}" alt="{{ name }}">
+                            </a>
+                        {{else}}
+                            <a href="{{info.sponsor_link}}" target="_blank" class="btn btn-info btn-lg speaker__grow"> <i class="fa fa-building-o"></i> Sua empresa aqui.</a>
+                        {{/each}}
+
+                    </div>
+                </div>
+            {{/each}}
+        {{/if}}
+
+        <p class="text-center">
+            <a href="{{info.sponsor_link}}" target="_blank" class="button__tertiary">Quero ser um patrocinador!</a>
+        </p>
+    </div>
+</section>
