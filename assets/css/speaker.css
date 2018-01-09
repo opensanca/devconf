@@ -41,15 +41,6 @@
   text-decoration: none;
 }
 
-.show-modal-info small {
-  font-size: 85%;
-  color: #f1f1f1;
-}
-
-.speaker__profile-info {
-  padding-bottom: 15px;
-}
-
 .speaker__profile-social a:hover {
   color: #f1c40f;
 }

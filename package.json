@@ -15,13 +15,7 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-compile-handlebars": "^0.6.1",
-    "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.0.0",
-    "gulp-cssnano": "^2.1.2",
-    "gulp-rename": "^1.2.2",
-    "gulp-stylus": "^2.6.0",
-    "lodash": "^4.17.4",
-    "optimist": "^0.6.1"
+    "gulp-stylus": "^2.6.0"
   }
 }
