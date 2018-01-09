@@ -57,4 +57,6 @@ gulp.task( 'connect', function() {
   connect.server({ livereload: true });
 });
 
-gulp.task('default', [ 'hbs', 'css', 'connect', 'watch' ]);
+gulp.task('build', [ 'hbs', 'css' ]);
+
+gulp.task('default', [ 'build', 'connect', 'watch' ]);
