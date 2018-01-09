@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm install && gulp",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "heroku-postbuild": "gulp"
   },
   "author": "cristofersousa",
   "license": "MIT",
