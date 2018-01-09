@@ -1,0 +1,27 @@
+{
+  "name": "devconf-page",
+  "version": "1.0.0",
+  "description": "landing page DevConf 2017",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristofersousa",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap3": "^3.3.5",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.6.0",
+    "lodash": "^4.17.4",
+    "optimist": "^0.6.1"
+  }
+}
