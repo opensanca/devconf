@@ -22,10 +22,20 @@
     {{> header/index }}
     {{> section/hero }}
     {{> section/about }}
-    {{> section/speaker }}
-    {{> section/schedule }}
+
+    {{#if speakers }}
+        {{> section/speaker }}
+    {{/if}}
+
+    {{#if schedule }}
+        {{> section/schedule }}
+    {{/if}}
+
     {{> section/sponsor }}
 
+    {{#if partners}}
+        {{> section/partner }}
+    {{/if}}
 
     <section class="googleMaps" id="cd-google-map">
         <div id="google-container"></div>
