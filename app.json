@@ -1,0 +1,25 @@
+{
+  "name": "devconf",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "YEAR": "2018"
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
