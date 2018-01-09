@@ -157,28 +157,28 @@
     ],
     "sponsors": {
         "diamond": [
-            { "name": "Monitora", "link": "http://monitoratec.com.br/pt", "logo": ""},
-            { "name": "Lendico", "link": "https://www.lendico.com.br/", "logo": ""},
-            { "name": "S2it", "link": "https://s2it.com.br/", "logo": ""},
-            { "name": "Fast Track", "link": "http://ft.ventures/", "logo": ""}
+            { "name": "Monitora", "link": "http://monitoratec.com.br/pt", "logo": "/assets/img/logos/monitora.png"},
+            { "name": "Lendico", "link": "https://www.lendico.com.br/", "logo": "/assets/img/logos/lendico.svg"},
+            { "name": "S2it", "link": "https://s2it.com.br/", "logo": "/assets/img/logos/s2it.png"},
+            { "name": "Fast Track", "link": "http://ft.ventures/", "logo": "/assets/img/logos/fast-track.png"}
         ],
         "gold": [
-            { "name": "Calamar", "link": "http://www.calamar.io/", "logo": ""},
-            { "name": "FCamara", "link": "https://www.fcamara.com.br/", "logo": ""},
-            { "name": "Guarani", "link": "http://www.guaranisistemas.com.br/", "logo": ""},
-            { "name": "Innovaci", "link": "#", "logo": ""},
-            { "name": "Simples", "link": "http://simples.software/", "logo": ""},
-            { "name": "TopTal", "link": "https://www.toptal.com/", "logo": ""}
+            { "name": "Calamar", "link": "http://www.calamar.io/", "logo": "/assets/img/logos/calamario.png"},
+            { "name": "FCamara", "link": "https://www.fcamara.com.br/", "logo": "/assets/img/logos/fcamara.png"},
+            { "name": "Guarani", "link": "http://www.guaranisistemas.com.br/", "logo": "/assets/img/logos/guarani.svg"},
+            { "name": "Innovaci", "link": "#", "logo": "/assets/img/logos/innovaci.svg"},
+            { "name": "Simples", "link": "http://simples.software/", "logo": "/assets/img/logos/simples.png"},
+            { "name": "TopTal", "link": "https://www.toptal.com/", "logo": "/assets/img/logos/toptal.svg"}
         ],
         "silver": [],
         "bronze": [
-            { "name": "Luiza Labs", "link": "http://luizalabs.com/", "logo": ""}
+            { "name": "Luiza Labs", "link": "http://luizalabs.com/", "logo": "/assets/img/logos/luiza-labs.png"}
         ]
     },
     "partners": [
         { "name": "Casa do Código", "link": "http://casadocodigo.com.br", "logo": "/assets/img/logos/casadocodigo.png"},
-        { "name": "Algaworks", "link": "http://www.algaworks.com/", "logo": ""},
-        { "name": "IFSP", "link": "http://www.ifspsaocarlos.edu.br/portal/", "logo": ""},
-        { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": ""}
+        { "name": "Algaworks", "link": "http://www.algaworks.com/", "logo": "/assets/img/logos/algaworks.png"},
+        { "name": "IFSP", "link": "http://www.ifspsaocarlos.edu.br/portal/", "logo": "/assets/img/logos/logo-ifsp.png"},
+        { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": "/assets/img/logos/logo-ufscar.png"}
     ]
 }
