@@ -25,6 +25,10 @@ function getEventData() {
                         .sortBy('priority')
                         .value();
 
+  if (!eventData.schedule.every(function (s) { return s.time })) {
+    delete eventData.schedule;
+  }
+
   return eventData;
 }
 
