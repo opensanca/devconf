@@ -10,18 +10,6 @@
     },
     "schedule": [
         {
-            "time": "08:00 - 08:30",
-            "title": "Credenciamento"
-        },
-        {
-            "time": "08:30 - 08:40",
-            "title": "Abertura"
-        },
-        {
-            "time": "08:40 - 09:20",
-            "title": "TBD"
-        },
-        {
             "time": "09:20 - 10:00",
             "title": "TBD",
             "slides": "",
@@ -40,11 +28,6 @@
             }
         },
         {
-            "time": "10:00 - 10:30",
-            "title": "Coffee Break"
-        },
-        {
-            "time": "10:30 - 11:10",
             "title": "TBD",
             "slides": "",
             "details": "",
