@@ -43,6 +43,23 @@
                     { "type": "github", "url": "https://github.com/willianjusten"}
                 ]
             }
+        },
+        {
+            "title": "TBD",
+            "slides": "",
+            "details": "",
+            "speaker": {
+                "name": "Renan Ranelli",
+                "enterprise": "Quinto Andar",
+                "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAz2AAAAJGEwMmUwZjUzLWY1ZTctNDU2Yi1hN2QxLTkzYzhmMTk3Yzk2Zg.jpg",
+                "priority": 3,
+                "bio": "",
+                "social": [
+                    { "type": "twitter", "url": "https://twitter.com/renanranelli"},
+                    { "type": "linkedin", "url": "https://br.linkedin.com/in/renan-ranelli"},
+                    { "type": "github", "url": "https://github.com/rranelli"}
+                ]
+            }
         }
     ]
 }
