@@ -60,6 +60,40 @@
                     { "type": "github", "url": "https://github.com/rranelli"}
                 ]
             }
+        },
+        {
+            "title": "TBD",
+            "slides": "",
+            "details": "",
+            "speaker": {
+                "name": "Jéssica Temporal",
+                "enterprise": "Nuveo / Data Science Brigade",
+                "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAnrAAAAJDdkMGNjYjEyLWQ5MzQtNDhjMy1iNjBlLTAzMzdiMWVmNzU3OA.jpg",
+                "priority": 4,
+                "bio": "",
+                "social": [
+                    { "type": "twitter", "url": "https://twitter.com/jesstemporal"},
+                    { "type": "linkedin", "url": "https://br.linkedin.com/in/jessicatemporal"},
+                    { "type": "github", "url": "https://github.com/jtemporal"}
+                ]
+            }
+        },
+        {
+            "title": "TBD",
+            "slides": "",
+            "details": "",
+            "speaker": {
+                "name": "Fernando Daciuk",
+                "enterprise": "Zimp",
+                "photo": "https://avatars0.githubusercontent.com/u/487669?s=400&v=4",
+                "priority": 5,
+                "bio": "",
+                "social": [
+                    { "type": "twitter", "url": "https://twitter.com/fdaciuk"},
+                    { "type": "linkedin", "url": "https://br.linkedin.com/in/fdaciuk"},
+                    { "type": "github", "url": "https://github.com/fdaciuk"}
+                ]
+            }
         }
     ]
 }
