@@ -7,5 +7,59 @@
         "hour": "8:00 - 19:00",
         "place": "UFSCar - Anfiteatro Bento Prado",
         "sponsor_link": ""
-    }
+    },
+    "schedule": [
+        {
+            "time": "08:00 - 08:30",
+            "title": "Credenciamento"
+        },
+        {
+            "time": "08:30 - 08:40",
+            "title": "Abertura"
+        },
+        {
+            "time": "08:40 - 09:20",
+            "title": "TBD"
+        },
+        {
+            "time": "09:20 - 10:00",
+            "title": "TBD",
+            "slides": "",
+            "details": "",
+            "speaker": {
+                "name": "Hugo Bessa",
+                "enterprise": "Toptal",
+                "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAzHAAAAJDQxYjFlYzQ1LTdiYmQtNDgxMi1iOGQ0LWVjOGU5NGRiNDBjZg.jpg",
+                "priority": 1,
+                "bio": "",
+                "social": [
+                    { "type": "twitter", "url": "https://twitter.com/hugobessaa"},
+                    { "type": "linkedin", "url": "https://br.linkedin.com/in/hugobessa"},
+                    { "type": "github", "url": "https://github.com/hugobessaa"}
+                ]
+            }
+        },
+        {
+            "time": "10:00 - 10:30",
+            "title": "Coffee Break"
+        },
+        {
+            "time": "10:30 - 11:10",
+            "title": "TBD",
+            "slides": "",
+            "details": "",
+            "speaker": {
+                "name": "Willian Justen",
+                "enterprise": "Toptal",
+                "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAgBAAAAJDkzZTRjYjdkLTIxZGItNDhlNi04ODk5LTdhYWFmOTIwZDUxYw.jpg",
+                "priority": 2,
+                "bio": "",
+                "social": [
+                    { "type": "twitter", "url": "https://twitter.com/willian_justen"},
+                    { "type": "linkedin", "url": "https://br.linkedin.com/in/willianjusten"},
+                    { "type": "github", "url": "https://github.com/willianjusten"}
+                ]
+            }
+        }
+    ]
 }
