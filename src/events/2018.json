@@ -82,23 +82,6 @@
                     { "type": "github", "url": "https://github.com/jtemporal"}
                 ]
             }
-        },
-        {
-            "title": "TBD",
-            "slides": "",
-            "details": "",
-            "speaker": {
-                "name": "Fernando Daciuk",
-                "enterprise": "Zimp",
-                "photo": "https://avatars0.githubusercontent.com/u/487669?s=400&v=4",
-                "priority": 5,
-                "bio": "",
-                "social": [
-                    { "type": "twitter", "url": "https://twitter.com/fdaciuk"},
-                    { "type": "linkedin", "url": "https://br.linkedin.com/in/fdaciuk"},
-                    { "type": "github", "url": "https://github.com/fdaciuk"}
-                ]
-            }
         }
     ]
 }
