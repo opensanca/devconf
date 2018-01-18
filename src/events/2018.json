@@ -15,6 +15,23 @@
     },
     "schedule": [
         {
+            "title": "TBD",
+            "slides": "",
+            "details": "",
+            "speaker": {
+                "name": "Roberta Arcoverde",
+                "enterprise": "Stack Overflow",
+                "photo": "http://qconrio.com/sites/default/files/styles/img-single-track/public/Roberta%20Arcoverde.png?itok=_xtPm-lv",
+                "priority": 1,
+                "bio": "Sou desenvolvedora há 12 anos, recifense morando em São Paulo, mestre em informática pela PUC-Rio e bacharela em ciência da computação pela UFPE. Há quatro anos integro o time de desenvolvedores da Stack Overflow, trabalhando remotamente no desenvolvimento do grupo de mais de 140 sites que compõem a Stack Exchange Network. Embora seja oficialmente desenvolvedora full-stack, tenho um carinho especial por back-end.",
+                "social": [
+                    { "type": "twitter", "url": "https://twitter.com/rla4"},
+                    { "type": "linkedin", "url": "https://br.linkedin.com/in/robertaarcoverde"},
+                    { "type": "github", "url": "https://github.com/robertaarcoverde"}
+                ]
+            }
+        },
+        {
             "time": "09:20 - 10:00",
             "title": "TBD",
             "slides": "",
@@ -23,7 +40,7 @@
                 "name": "Hugo Bessa",
                 "enterprise": "Toptal",
                 "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAzHAAAAJDQxYjFlYzQ1LTdiYmQtNDgxMi1iOGQ0LWVjOGU5NGRiNDBjZg.jpg",
-                "priority": 1,
+                "priority": 2,
                 "bio": "",
                 "social": [
                     { "type": "twitter", "url": "https://twitter.com/hugobessaa"},
@@ -40,7 +57,7 @@
                 "name": "Willian Justen",
                 "enterprise": "Toptal",
                 "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAgBAAAAJDkzZTRjYjdkLTIxZGItNDhlNi04ODk5LTdhYWFmOTIwZDUxYw.jpg",
-                "priority": 2,
+                "priority": 3,
                 "bio": "",
                 "social": [
                     { "type": "twitter", "url": "https://twitter.com/willian_justen"},
@@ -57,7 +74,7 @@
                 "name": "Renan Ranelli",
                 "enterprise": "Quinto Andar",
                 "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAz2AAAAJGEwMmUwZjUzLWY1ZTctNDU2Yi1hN2QxLTkzYzhmMTk3Yzk2Zg.jpg",
-                "priority": 3,
+                "priority": 4,
                 "bio": "",
                 "social": [
                     { "type": "twitter", "url": "https://twitter.com/renanranelli"},
@@ -74,7 +91,7 @@
                 "name": "Jessica Temporal",
                 "enterprise": "Nuveo",
                 "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAnrAAAAJDdkMGNjYjEyLWQ5MzQtNDhjMy1iNjBlLTAzMzdiMWVmNzU3OA.jpg",
-                "priority": 4,
+                "priority": 5,
                 "bio": "",
                 "social": [
                     { "type": "twitter", "url": "https://twitter.com/jesstemporal"},
