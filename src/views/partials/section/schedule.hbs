@@ -10,11 +10,17 @@
                             {{title}}
                             <div class="pull-right">
                                 {{#if record}}
-                                    <a href="{{record}}" target="_blank" class="schedule-details-link disabled"><i class="fa fa-file-video-o"></i><span>ver vídeo</span></a>
+                                    <a href="{{record}}" target="_blank" class="schedule-details-link disabled">
+                                      <i class="fa fa-file-video-o"></i>
+                                      <span>ver vídeo</span>
+                                    </a>
                                 {{/if}}
                                 {{#if slides}}
                                     <span>|</span>
-                                    <a href="{{slides}}" target="_blank" class="schedule-details-link"><i class="fa fa-newspaper-o"></i><span>ver slides</span></a>
+                                    <a href="{{slides}}" target="_blank" class="schedule-details-link">
+                                      <i class="fa fa-newspaper-o"></i>
+                                      <span>ver slides</span>
+                                  </a>
                                 {{/if}}
                             </div>
                             <input type="checkbox" id="schedule-item-{{@index}}" class="see-details"/>
