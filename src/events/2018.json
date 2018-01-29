@@ -122,7 +122,21 @@
     },
     {
       "time": "14:40 - 15:20",
-      "title": "TBD"
+      "title": "TBD",
+      "slides": "",
+      "details": "",
+      "speaker": {
+        "name": "Luciano Ramalho",
+        "enterprise": "ThoughtWorks",
+        "photo": "https://media.licdn.com/media/p/4/000/1bf/22d/21bbbfd.jpg",
+        "priority": 6,
+        "bio": "",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/ramalhoorg" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/lucianoramalho" },
+          { "type": "github", "url": "https://github.com/ramalho" }
+        ]
+      }
     },
     {
       "time": "15:20 - 16:00",
