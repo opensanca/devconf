@@ -140,7 +140,21 @@
     },
     {
       "time": "15:20 - 16:00",
-      "title": "em definição"
+      "title": "Arquitetura Hexagonal",
+      "slides": "",
+      "details": "Todo mundo fica frustrado quando demora muito mais do que deveria para entregar uma funcionalidade que era pra ser simples. Pra resolver esse problema (e outros) é que surge a Arquitetura Hexagonal, também conhecida como Ports & Adapters, cujo objetivo é minimizar o trabalho de criar ou fazer modificações em um software. Essa talk irá apresentar o que é essa arquitetura, por que ela existe e como ela funciona, passando por todo o caminho que um recurso faz no software.",
+      "speaker": {
+        "name": "Camila Campos",
+        "enterprise": "Creditas",
+        "photo": "assets/img/2018_camila_campos.jpg",
+        "priority": 7,
+        "bio": "Formada em Sistemas de Informação na EACH-USP, a chata dos testes que trabalha como engenheira de software na Creditas e organiza o Rails Girls São Paulo e o Women Dev Summit.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/camposmilaa" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/camilacamposramos/" },
+          { "type": "github", "url": "https://github.com/camilacampos" }
+        ]
+      }
     },
     {
       "time": "16:00 - 16:30",
