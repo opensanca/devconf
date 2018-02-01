@@ -104,19 +104,19 @@
     },
     {
       "time": "14:00 - 14:40",
-      "title": "em definição",
+      "title": "Como sua aplicação deve se comportar quando tudo dá errado?",
       "slides": "",
-      "details": "",
+      "details": "O objetivo dessa palestra é compartilhar experiências recentes lidando com APIs com alto throughput, falhas de comunicação entre componentes, bancos de dados, serviços externos, etc.<br/><br/>Nós iremos explorar aplicações do mundo real do meu dia a dia e veremos algumas soluções como Circuit Breakers, Cache Stale, Service Mesh e outras coisas que podem garantir a resiliência e uptime do seu serviço.<br /><br />Iremos também cobrir algumas questões de como a aplicação deve se comportar quando: O banco de dados não está disponível; Alguns serviços externos estão quebrados ou com um tempo de resposta não aceitável; Rede está falhando por algum motivo.",
       "speaker": {
-          "name": "Jessica Temporal",
-          "enterprise": "Nuveo",
-          "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAnrAAAAJDdkMGNjYjEyLWQ5MzQtNDhjMy1iNjBlLTAzMzdiMWVmNzU3OA.jpg",
+          "name": "Emerson Macedo",
+          "enterprise": "Globo.com",
+          "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAm7AAAAJDk5NWY1MTliLTJmNTEtNDQ4Mi1iZWZlLTkzY2I3ZjJjOTM2OQ.jpg",
           "priority": 5,
-          "bio": "Desenvolvedora e cientista de dados na Nuveo, co-fundadora do podcast brasileiro sobre ciência de dados o Pizza de Dados, PyLady e também mantenedora do projeto Operação Serenata de Amor. Formou-se sem Informática Biomédica onde descobriu a paixão por ciência de dados analisando dados genômicos e flertando com processamento de linguagem natural durante a graduação.",
+          "bio": "Problem solver. Programador apaixonado. Meu objetivo é sempre buscar como posso agregar valor para alguém. 19 anos trabalhando profissionalmente, trabalhei para portais web, seguradoras, telecomunicações, bancos, entre outros. Programador agnóstico.",
           "social": [
-              { "type": "twitter", "url": "https://twitter.com/jesstemporal"},
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/jessicatemporal"},
-              { "type": "github", "url": "https://github.com/jtemporal"}
+              { "type": "twitter", "url": "https://twitter.com/emerleite" },
+              { "type": "linkedin", "url": "https://br.linkedin.com/in/emerleite" },
+              { "type": "github", "url": "https://github.com/emerleite" }
           ]
       }
     },
@@ -162,7 +162,21 @@
     },
     {
       "time": "16:30 - 17:10",
-      "title": "em definição"
+      "title": "em definição",
+      "slides": "",
+      "details": "",
+      "speaker": {
+          "name": "Jessica Temporal",
+          "enterprise": "Nuveo",
+          "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAnrAAAAJDdkMGNjYjEyLWQ5MzQtNDhjMy1iNjBlLTAzMzdiMWVmNzU3OA.jpg",
+          "priority": 8,
+          "bio": "Desenvolvedora e cientista de dados na Nuveo, co-fundadora do podcast brasileiro sobre ciência de dados o Pizza de Dados, PyLady e também mantenedora do projeto Operação Serenata de Amor. Formou-se sem Informática Biomédica onde descobriu a paixão por ciência de dados analisando dados genômicos e flertando com processamento de linguagem natural durante a graduação.",
+          "social": [
+              { "type": "twitter", "url": "https://twitter.com/jesstemporal"},
+              { "type": "linkedin", "url": "https://br.linkedin.com/in/jessicatemporal"},
+              { "type": "github", "url": "https://github.com/jtemporal"}
+          ]
+      }
     },
     {
       "time": "17:10 - 17:50",
