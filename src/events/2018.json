@@ -24,9 +24,9 @@
     },
     {
       "time": "08:40 - 09:20",
-      "title": "em definição",
+      "title": "Cultura de Desenvolvimento e Arquitetura do Stack Overflow",
       "slides": "",
-      "details": "",
+      "details": "Boas práticas de desenvolvimento de software são comumente aceitas como universais; entretanto, no Stack Overflow, estamos acostumados a desobedecer convenções e quebrar paradigmas. Conseguimos manter no ar uma rede de sites que recebe 1 bilhão e meio de page views por mês usando apenas 9 servidores web. Nossa arquitetura é monolítica, usamos nosso próprio data center, mais da metade do nosso time trabalha remotamente (e em diferentes fusos), não escrevemos testes automatizados e frequentemente reinventamos rodas. Nossa obsessão por performance gerou vários projetos open source interessantes, e permitiu que tivéssemos uma infra estrutura até vinte vezes mais enxuta que sites de tamanho similar, além de ter nos ajudado a lidar com o Meltdown. Nessa palestra vou falar da nossa cultura de desenvolvimento, explicar como funciona nossa arquitetura e as motivações por trás de tantas escolhas controversas.",
       "speaker": {
           "name": "Roberta Arcoverde",
           "enterprise": "Stack Overflow",
