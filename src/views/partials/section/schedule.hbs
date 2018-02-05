@@ -7,7 +7,7 @@
                 <li>
                     {{#if speaker}}
                         <label for="schedule-item-{{@index}}" class="see-details-link"> {{time}} |
-                            {{title}}
+                            {{title}} - {{speaker.name}}
                             <div class="pull-right">
                                 {{#if record}}
                                     <a href="{{record}}" target="_blank" class="schedule-details-link disabled">

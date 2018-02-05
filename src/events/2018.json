@@ -42,15 +42,15 @@
     },
     {
       "time": "09:20 - 10:00",
-      "title": "em definição",
+      "title": "Os tipos escondidos na sua UI",
       "slides": "",
-      "details": "",
+      "details": "Tipos estão escondidos mesmo nas UIs mais simples. Dados a carregar, listas de conteúdo, status da conexão e muitos outros que nem sempre são explícitos. Usando exemplos de UIs reais, eu o/a ajudarei a desvendá-los, evitando assim problemas inesperados em runtime.",
       "speaker": {
           "name": "Hugo Bessa",
           "enterprise": "Toptal",
           "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAzHAAAAJDQxYjFlYzQ1LTdiYmQtNDgxMi1iOGQ0LWVjOGU5NGRiNDBjZg.jpg",
           "priority": 2,
-          "bio": "",
+          "bio": "Desenvolvedor front-end com foco em simplicidade. Há 4 anos lutando contra problemas de tipos e outros monstros desconhecidos.",
           "social": [
               { "type": "twitter", "url": "https://twitter.com/hugobessaa"},
               { "type": "linkedin", "url": "https://br.linkedin.com/in/hugobessa"},
