@@ -64,15 +64,15 @@
     },
     {
       "time": "10:30 - 11:10",
-      "title": "em definição",
+      "title": "Criando animações avançadas com Greensock",
       "slides": "",
-      "details": "",
+      "details": "Também nunca ouviu falar em Greensock? Ficaria surpreendido se eu dissesse que mais da metade dos sites premiados de 2017 usaram essa biblioteca? Pois é, vamos aprender e conhecer essa incrível biblioteca de animações!",
       "speaker": {
           "name": "Willian Justen",
           "enterprise": "Toptal",
           "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAgBAAAAJDkzZTRjYjdkLTIxZGItNDhlNi04ODk5LTdhYWFmOTIwZDUxYw.jpg",
           "priority": 3,
-          "bio": "",
+          "bio": "Desenvolvedor Front-end na Toptal, escritor de blog nas horas vagas e instrutor de cursos na Udemy com mais de 30 mil alunos. Sou apaixonado por tecnologia e compartilhamento de conhecimento, nos últimos tempos tenho me dedicado a criação de cursos, discussões sobre trabalho remoto e fotografia, onde acabei ganhando prêmio de fotógrafo de 2017 pelo Unsplash.",
           "social": [
               { "type": "twitter", "url": "https://twitter.com/willian_justen"},
               { "type": "linkedin", "url": "https://br.linkedin.com/in/willianjusten"},
