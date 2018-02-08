@@ -1522,3 +1522,7 @@ float: left;
       width: 100px;
     }
 }
+
+.text-capitalize{
+  text-transform:capitalize;  
+}
