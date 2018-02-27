@@ -82,12 +82,12 @@
     },
     {
       "time": "11:10 - 11:50",
-      "title": "em definição",
+      "title": "Raciocinando sobre sistemas distribuidos",
       "slides": "",
-      "details": "",
+      "details": "Aplicações distribuidas estão cada vez mais comuns no dia a dia dos desenvolvedores: Seja devido à adoção de arquiteturas orientadas a ~micro~serviços, single page applications, aplicações mobile, etc.<br />Dado esse caminho sem volta, é fundamental que nós, desenvolvedores, sejamos capazes de raciocinar sobre tais sistemas e entender onde a nossa lógica geralmente baseada em sistemas monolíticos começa a falhar.<br /> Nessa apresentação vamos abordar temas como consistência, disponibilidade, deploy, arquiteturas de dados, redes, relógios, testes, performance e explorar *por que* esses assuntos merecem ser compreendidos (e como eles podem tirar nosso sono).",
       "speaker": {
           "name": "Renan Ranelli",
-          "enterprise": "Quinto Andar",
+          "enterprise": "TamingChaos",
           "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAz2AAAAJGEwMmUwZjUzLWY1ZTctNDU2Yi1hN2QxLTkzYzhmMTk3Yzk2Zg.jpg",
           "priority": 4,
           "bio": "Sou engenheiro de software focando em backend e banco de dados, nos ultimos 2 anos trabalhei com Elixir, Clojure e Python. Antes disso, passei longas temporadas no ecossistema Ruby e C#. Já trabalhei em projetos grandes, pequenos, legados e novos. Em uma vida passada fui Engenheiro Químico.",
