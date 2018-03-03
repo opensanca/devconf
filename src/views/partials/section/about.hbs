@@ -8,9 +8,16 @@
                     {{{info.about}}}
                 </p>
             </div>
-            <div class="col-md-offset-2 col-md-8">
-                <div id="{{{sympla.id}}}" height="auto"></div>
-            </div>
+            {{#if info.tickets.available }}
+                <div class="col-md-offset-3 col-md-8">
+                    <div id="{{{sympla.id}}}" height="auto"></div>
+                </div>
+            {{else }}
+                <div class="col-md-offset-4 col-md-8">
+                     <img src="assets/img/esgotado.png" alt="{{info.tickets.message}}" class="img-responsive">
+                </div>
+                
+            {{/if}}
         </div>
         <div class="row promo">
 

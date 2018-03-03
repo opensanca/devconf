@@ -3,13 +3,17 @@
     "year": 2018,
     "title": "DevConf 2018 | Somos caipiras e gostamos de tecnologia!",
     "about": "Acreditamos que o conhecimento é livre, e essa crença nos inspirou a organizar o DevConf! O DevConf é um evento de tecnologia sem fins lucrativos organizado pelo Opensanca, a maior comunidade ativa de tecnologia do interior de São Paulo, em parceria com a UFSCar e IFSP São Carlos. A proposta desta edição do evento é colocar em discussão temas atuais de tecnologia e desenvolvimento de software. Iremos promover apresentações com alto nível de conhecimento e relevância e, estimular a troca de experiência e network entre a comunidade de tecnologia do interior, que é caipira mas ama e se move por tecnologia! O evento irá acontecer no dia 05 de Maio de 2018, no Anfiteatro Bento Prado da Universidade Federal de São Carlos (UFSCar) em São Carlos/SP. Esperamos um público aproximado de 200 pessoas, entre estudantes, profissionais de tecnologia e entusiastas da região!",
-    "capacity": "200 DevCaipiras",
+    "capacity": "180 DevCaipiras",
     "date": "Sábado - 05/05",
     "hour": "8:00 - 19:00",
     "place": "UFSCar - Anfiteatro Bento Prado",
-    "sponsor_link": "documento_de_patrocinio_devconf_2018.pdf"
+    "sponsor_link": "documento_de_patrocinio_devconf_2018.pdf",
+    "tickets": {
+      "available": false,
+      "message": "Ingressos esgotados. Ano que vem tem mais!"
+    }
   },
-  "sympla":{
+  "sympla": {
     "id":"sympla-widget-233687",
     "script":"https://www.sympla.com.br/js/sympla.widget-pt.js/233687"
   },
