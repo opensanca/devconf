@@ -198,7 +198,8 @@
   "sponsors": {
         "diamond": [
             { "name": "S2it", "link": "https://s2it.com.br/", "logo": "/assets/img/logos/s2it.png"},
-            { "name": "Fast Track", "link": "http://ft.ventures/", "logo": "/assets/img/logos/fast-track.png"}
+            { "name": "Fast Track", "link": "http://ft.ventures/", "logo": "/assets/img/logos/fast-track.png"},
+            { "name": "Monitora", "link": "http://monitoratec.com.br/", "logo": "/assets/img/logos/monitora.png"}
         ],
         "gold": [
             { "name": "Programer's", "link": "http://www.programmers.com.br", "logo": "/assets/img/logos/programers.png"}
