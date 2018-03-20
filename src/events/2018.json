@@ -172,7 +172,7 @@
       "speaker": {
           "name": "Jessica Temporal",
           "enterprise": "Nuveo",
-          "photo": "https://media.licdn.com/media/AAMAAgDGAAwAAQAAAAAAAA7zAAAAJDY2MzUxMWViLWVhYzQtNGQ1My04NzFkLTU3ZmJkYTJmZGUwMA.jpg",
+          "photo": "assets/img/2018_jessica_temporal.png",
           "priority": 8,
           "bio": "Desenvolvedora e cientista de dados na Nuveo, co-fundadora do podcast brasileiro sobre ciência de dados o Pizza de Dados, PyLady e também mantenedora do projeto Operação Serenata de Amor. Formou-se sem Informática Biomédica onde descobriu a paixão por ciência de dados analisando dados genômicos e flertando com processamento de linguagem natural durante a graduação.",
           "social": [
