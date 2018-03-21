@@ -208,6 +208,7 @@
     },
     "partners": [
         { "name": "IFSP", "link": "http://www.ifspsaocarlos.edu.br/portal/", "logo": "/assets/img/logos/logo-ifsp.png"},
-        { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": "/assets/img/logos/logo-ufscar.png"}
+        { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": "/assets/img/logos/logo-ufscar.png"},
+        { "name": "InfoQ Brasil", "link": "https://www.infoq.com/br/", "logo": "/assets/img/logos/infoqbrasil-logo.png"}
     ]
 }
