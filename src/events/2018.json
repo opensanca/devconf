@@ -86,19 +86,19 @@
     },
     {
       "time": "11:10 - 11:50",
-      "title": "Raciocinando sobre sistemas distribuidos",
+      "title": "Criando um chatbot para automação de tarefas utilizando IBM Watson + Telegram + Python + Django",
       "slides": "",
-      "details": "Aplicações distribuidas estão cada vez mais comuns no dia a dia dos desenvolvedores: Seja devido à adoção de arquiteturas orientadas a ~micro~serviços, single page applications, aplicações mobile, etc.<br />Dado esse caminho sem volta, é fundamental que nós, desenvolvedores, sejamos capazes de raciocinar sobre tais sistemas e entender onde a nossa lógica geralmente baseada em sistemas monolíticos começa a falhar.<br /> Nessa apresentação vamos abordar temas como consistência, disponibilidade, deploy, arquiteturas de dados, redes, relógios, testes, performance e explorar *por que* esses assuntos merecem ser compreendidos (e como eles podem tirar nosso sono).",
+      "details": "Venha conhecer mais sobre chatbots e como eles podem ser útil na automação de atividades! <br /> Vamos integrar tudo e demonstrar como tudo é mais simples do que parece, seu bot funcional em 30 minutos, eu garanto! <br /> Iremos construir um bot que irá interagir com o usuário e já realizar ações que antes era manual, no nosso exemplo, nosso bot irá realizar uma troca de senha para o usuário, tudo automático, sem intervenção humana, mas com uma interação que irá simular um humano. <br /> Iremos fazer tudo isso, criando uma inteligência usando o IBM Watson, onde iremos integrar com um Client feito em Python/Django, que será responsável pelas ações (como a troca de senha) e também será responsável por receber a repassar a mensagem para nosso Bot no Telegram! =D <br /> E se você não programa em Python, fique tranquilo, vou demonstrar como você pode fazer tudo isso na linguagem de sua preferência! =D",
       "speaker": {
-          "name": "Renan Ranelli",
-          "enterprise": "TamingChaos",
-          "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAz2AAAAJGEwMmUwZjUzLWY1ZTctNDU2Yi1hN2QxLTkzYzhmMTk3Yzk2Zg.jpg",
+          "name": "Rafael Galleani",
+          "enterprise": "Global Hitss",
+          "photo": "assets/img/2018_rafael_galleani.jpg",
           "priority": 4,
-          "bio": "Sou engenheiro de software focando em backend e banco de dados, nos ultimos 2 anos trabalhei com Elixir, Clojure e Python. Antes disso, passei longas temporadas no ecossistema Ruby e C#. Já trabalhei em projetos grandes, pequenos, legados e novos. Em uma vida passada fui Engenheiro Químico.",
+          "bio": "Desenvolvedor full-stack, apaixonado por tecnologia e outras modinhas. Tenho 10 anos de experiência, após ter feito de tudo na área, nos últimos anos tenho me dedicado a cultura DevOps, Python e Chatbot. Também mantenho um blog e um canal no youtube.",
           "social": [
-              { "type": "twitter", "url": "https://twitter.com/renanranelli"},
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/renan-ranelli"},
-              { "type": "github", "url": "https://github.com/rranelli"}
+              { "type": "twitter", "url": "https://twitter.com/rafegal" },
+              { "type": "linkedin", "url": "https://br.linkedin.com/in/rafael-galleani/" },
+              { "type": "github", "url": "https://github.com/rafegal" }
           ]
       }
     },
@@ -184,7 +184,21 @@
     },
     {
       "time": "17:10 - 17:50",
-      "title": "em definição"
+      "title": "Raciocinando sobre sistemas distribuidos",
+      "slides": "",
+      "details": "Aplicações distribuidas estão cada vez mais comuns no dia a dia dos desenvolvedores: Seja devido à adoção de arquiteturas orientadas a ~micro~serviços, single page applications, aplicações mobile, etc.<br />Dado esse caminho sem volta, é fundamental que nós, desenvolvedores, sejamos capazes de raciocinar sobre tais sistemas e entender onde a nossa lógica geralmente baseada em sistemas monolíticos começa a falhar.<br /> Nessa apresentação vamos abordar temas como consistência, disponibilidade, deploy, arquiteturas de dados, redes, relógios, testes, performance e explorar *por que* esses assuntos merecem ser compreendidos (e como eles podem tirar nosso sono).",
+      "speaker": {
+          "name": "Renan Ranelli",
+          "enterprise": "TamingChaos",
+          "photo": "assets/img/2018_renan_ranelli.jpeg",
+          "priority": 9,
+          "bio": "Sou engenheiro de software focando em backend e banco de dados, nos ultimos 2 anos trabalhei com Elixir, Clojure e Python. Antes disso, passei longas temporadas no ecossistema Ruby e C#. Já trabalhei em projetos grandes, pequenos, legados e novos. Em uma vida passada fui Engenheiro Químico.",
+          "social": [
+              { "type": "twitter", "url": "https://twitter.com/renanranelli"},
+              { "type": "linkedin", "url": "https://br.linkedin.com/in/renan-ranelli"},
+              { "type": "github", "url": "https://github.com/rranelli"}
+          ]
+      }
     },
     {
       "time": "17:50 - 18:30",
