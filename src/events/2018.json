@@ -32,16 +32,16 @@
       "slides": "",
       "details": "Boas práticas de desenvolvimento de software são comumente aceitas como universais; entretanto, no Stack Overflow, estamos acostumados a desobedecer convenções e quebrar paradigmas. Conseguimos manter no ar uma rede de sites que recebe 1 bilhão e meio de page views por mês usando apenas 9 servidores web. Nossa arquitetura é monolítica, usamos nosso próprio data center, mais da metade do nosso time trabalha remotamente (e em diferentes fusos), não escrevemos testes automatizados e frequentemente reinventamos rodas. Nossa obsessão por performance gerou vários projetos open source interessantes, e permitiu que tivéssemos uma infra estrutura até vinte vezes mais enxuta que sites de tamanho similar, além de ter nos ajudado a lidar com o Meltdown. Nessa palestra vou falar da nossa cultura de desenvolvimento, explicar como funciona nossa arquitetura e as motivações por trás de tantas escolhas controversas.",
       "speaker": {
-          "name": "Roberta Arcoverde",
-          "enterprise": "Stack Overflow",
-          "photo": "http://qconrio.com/sites/default/files/styles/img-single-track/public/Roberta%20Arcoverde.png?itok=_xtPm-lv",
-          "priority": 1,
-          "bio": "Sou desenvolvedora há 12 anos, recifense morando em São Paulo, mestre em informática pela PUC-Rio e bacharela em ciência da computação pela UFPE. Há quatro anos integro o time de desenvolvedores da Stack Overflow, trabalhando remotamente no desenvolvimento do grupo de mais de 140 sites que compõem a Stack Exchange Network. Embora seja oficialmente desenvolvedora full-stack, tenho um carinho especial por back-end.",
-          "social": [
-              { "type": "twitter", "url": "https://twitter.com/rla4"},
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/robertaarcoverde"},
-              { "type": "github", "url": "https://github.com/robertaarcoverde"}
-          ]
+        "name": "Roberta Arcoverde",
+        "enterprise": "Stack Overflow",
+        "photo": "assets/img/2018_roberta_arcoverde.png",
+        "priority": 1,
+        "bio": "Sou desenvolvedora há 12 anos, recifense morando em São Paulo, mestre em informática pela PUC-Rio e bacharela em ciência da computação pela UFPE. Há quatro anos integro o time de desenvolvedores da Stack Overflow, trabalhando remotamente no desenvolvimento do grupo de mais de 140 sites que compõem a Stack Exchange Network. Embora seja oficialmente desenvolvedora full-stack, tenho um carinho especial por back-end.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/rla4"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/robertaarcoverde"},
+          { "type": "github", "url": "https://github.com/robertaarcoverde"}
+        ]
       }
     },
     {
@@ -50,16 +50,16 @@
       "slides": "",
       "details": "Tipos estão escondidos mesmo nas UIs mais simples. Dados a carregar, listas de conteúdo, status da conexão e muitos outros que nem sempre são explícitos. Usando exemplos de UIs reais, eu o/a ajudarei a desvendá-los, evitando assim problemas inesperados em runtime.",
       "speaker": {
-          "name": "Hugo Bessa",
-          "enterprise": "Toptal",
-          "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAzHAAAAJDQxYjFlYzQ1LTdiYmQtNDgxMi1iOGQ0LWVjOGU5NGRiNDBjZg.jpg",
-          "priority": 2,
-          "bio": "Desenvolvedor front-end com foco em simplicidade. Há 4 anos lutando contra problemas de tipos e outros monstros desconhecidos.",
-          "social": [
-              { "type": "twitter", "url": "https://twitter.com/hugobessaa"},
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/hugobessa"},
-              { "type": "github", "url": "https://github.com/hugobessaa"}
-          ]
+        "name": "Hugo Bessa",
+        "enterprise": "Toptal",
+        "photo": "assets/img/2018_hugo_bessa.jpeg",
+        "priority": 2,
+        "bio": "Desenvolvedor front-end com foco em simplicidade. Há 4 anos lutando contra problemas de tipos e outros monstros desconhecidos.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/hugobessaa"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/hugobessa"},
+          { "type": "github", "url": "https://github.com/hugobessaa"}
+        ]
       }
     },
     {
@@ -72,16 +72,16 @@
       "slides": "",
       "details": "Também nunca ouviu falar em Greensock? Ficaria surpreendido se eu dissesse que mais da metade dos sites premiados de 2017 usaram essa biblioteca? Pois é, vamos aprender e conhecer essa incrível biblioteca de animações!",
       "speaker": {
-          "name": "Willian Justen",
-          "enterprise": "Toptal",
-          "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAgBAAAAJDkzZTRjYjdkLTIxZGItNDhlNi04ODk5LTdhYWFmOTIwZDUxYw.jpg",
-          "priority": 3,
-          "bio": "Desenvolvedor Front-end na Toptal, escritor de blog nas horas vagas e instrutor de cursos na Udemy com mais de 30 mil alunos. Sou apaixonado por tecnologia e compartilhamento de conhecimento, nos últimos tempos tenho me dedicado a criação de cursos, discussões sobre trabalho remoto e fotografia, onde acabei ganhando prêmio de fotógrafo de 2017 pelo Unsplash.",
-          "social": [
-              { "type": "twitter", "url": "https://twitter.com/willian_justen"},
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/willianjusten"},
-              { "type": "github", "url": "https://github.com/willianjusten"}
-          ]
+        "name": "Willian Justen",
+        "enterprise": "Toptal",
+        "photo": "assets/img/2018_willian_justen.jpeg",
+        "priority": 3,
+        "bio": "Desenvolvedor Front-end na Toptal, escritor de blog nas horas vagas e instrutor de cursos na Udemy com mais de 30 mil alunos. Sou apaixonado por tecnologia e compartilhamento de conhecimento, nos últimos tempos tenho me dedicado a criação de cursos, discussões sobre trabalho remoto e fotografia, onde acabei ganhando prêmio de fotógrafo de 2017 pelo Unsplash.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/willian_justen"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/willianjusten"},
+          { "type": "github", "url": "https://github.com/willianjusten"}
+        ]
       }
     },
     {
@@ -90,16 +90,16 @@
       "slides": "",
       "details": "Venha conhecer mais sobre chatbots e como eles podem ser útil na automação de atividades! <br /> Vamos integrar tudo e demonstrar como tudo é mais simples do que parece, seu bot funcional em 30 minutos, eu garanto! <br /> Iremos construir um bot que irá interagir com o usuário e já realizar ações que antes era manual, no nosso exemplo, nosso bot irá realizar uma troca de senha para o usuário, tudo automático, sem intervenção humana, mas com uma interação que irá simular um humano. <br /> Iremos fazer tudo isso, criando uma inteligência usando o IBM Watson, onde iremos integrar com um Client feito em Python/Django, que será responsável pelas ações (como a troca de senha) e também será responsável por receber a repassar a mensagem para nosso Bot no Telegram! =D <br /> E se você não programa em Python, fique tranquilo, vou demonstrar como você pode fazer tudo isso na linguagem de sua preferência! =D",
       "speaker": {
-          "name": "Rafael Galleani",
-          "enterprise": "Global Hitss",
-          "photo": "assets/img/2018_rafael_galleani.jpg",
-          "priority": 4,
-          "bio": "Desenvolvedor full-stack, apaixonado por tecnologia e outras modinhas. Tenho 10 anos de experiência, após ter feito de tudo na área, nos últimos anos tenho me dedicado a cultura DevOps, Python e Chatbot. Também mantenho um blog e um canal no youtube.",
-          "social": [
-              { "type": "twitter", "url": "https://twitter.com/rafegal" },
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/rafael-galleani/" },
-              { "type": "github", "url": "https://github.com/rafegal" }
-          ]
+        "name": "Rafael Galleani",
+        "enterprise": "Global Hitss",
+        "photo": "assets/img/2018_rafael_galleani.jpg",
+        "priority": 4,
+        "bio": "Desenvolvedor full-stack, apaixonado por tecnologia e outras modinhas. Tenho 10 anos de experiência, após ter feito de tudo na área, nos últimos anos tenho me dedicado a cultura DevOps, Python e Chatbot. Também mantenho um blog e um canal no youtube.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/rafegal" },
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/rafael-galleani/" },
+          { "type": "github", "url": "https://github.com/rafegal" }
+        ]
       }
     },
     {
@@ -112,16 +112,16 @@
       "slides": "",
       "details": "O objetivo dessa palestra é compartilhar experiências recentes lidando com APIs com alto throughput, falhas de comunicação entre componentes, bancos de dados, serviços externos, etc.<br/><br/>Nós iremos explorar aplicações do mundo real do meu dia a dia e veremos algumas soluções como Circuit Breakers, Cache Stale, Service Mesh e outras coisas que podem garantir a resiliência e uptime do seu serviço.<br /><br />Iremos também cobrir algumas questões de como a aplicação deve se comportar quando: O banco de dados não está disponível; Alguns serviços externos estão quebrados ou com um tempo de resposta não aceitável; Rede está falhando por algum motivo.",
       "speaker": {
-          "name": "Emerson Macedo",
-          "enterprise": "Globo.com",
-          "photo": "https://media.licdn.com/media/AAEAAQAAAAAAAAm7AAAAJDk5NWY1MTliLTJmNTEtNDQ4Mi1iZWZlLTkzY2I3ZjJjOTM2OQ.jpg",
-          "priority": 5,
-          "bio": "Problem solver. Programador apaixonado. Meu objetivo é sempre buscar como posso agregar valor para alguém. 19 anos trabalhando profissionalmente, trabalhei para portais web, seguradoras, telecomunicações, bancos, entre outros. Programador agnóstico.",
-          "social": [
-              { "type": "twitter", "url": "https://twitter.com/emerleite" },
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/emerleite" },
-              { "type": "github", "url": "https://github.com/emerleite" }
-          ]
+        "name": "Emerson Macedo",
+        "enterprise": "Globo.com",
+        "photo": "assets/img/2018_emerson_macedo.jpeg",
+        "priority": 5,
+        "bio": "Problem solver. Programador apaixonado. Meu objetivo é sempre buscar como posso agregar valor para alguém. 19 anos trabalhando profissionalmente, trabalhei para portais web, seguradoras, telecomunicações, bancos, entre outros. Programador agnóstico.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/emerleite" },
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/emerleite" },
+          { "type": "github", "url": "https://github.com/emerleite" }
+        ]
       }
     },
     {
@@ -132,7 +132,7 @@
       "speaker": {
         "name": "Luciano Ramalho",
         "enterprise": "ThoughtWorks",
-        "photo": "https://media.licdn.com/media/p/4/000/1bf/22d/21bbbfd.jpg",
+        "photo": "assets/img/2018_luciano_ramalho.jpeg",
         "priority": 6,
         "bio": "Luciano Ramalho é consultor na ThoughtWorks e autor do livro Python Fluente (O'Reilly/Novatec, 2015). É co-fundador do Garoa Hacker Clube, o primeiro hackerspace do Brasil.",
         "social": [
@@ -170,16 +170,16 @@
       "slides": "",
       "details": "",
       "speaker": {
-          "name": "Jessica Temporal",
-          "enterprise": "Nuveo",
-          "photo": "assets/img/2018_jessica_temporal.png",
-          "priority": 8,
-          "bio": "Desenvolvedora e cientista de dados na Nuveo, co-fundadora do podcast brasileiro sobre ciência de dados o Pizza de Dados, PyLady e também mantenedora do projeto Operação Serenata de Amor. Formou-se sem Informática Biomédica onde descobriu a paixão por ciência de dados analisando dados genômicos e flertando com processamento de linguagem natural durante a graduação.",
-          "social": [
-              { "type": "twitter", "url": "https://twitter.com/jesstemporal"},
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/jessicatemporal"},
-              { "type": "github", "url": "https://github.com/jtemporal"}
-          ]
+        "name": "Jessica Temporal",
+        "enterprise": "Nuveo",
+        "photo": "assets/img/2018_jessica_temporal.png",
+        "priority": 8,
+        "bio": "Desenvolvedora e cientista de dados na Nuveo, co-fundadora do podcast brasileiro sobre ciência de dados o Pizza de Dados, PyLady e também mantenedora do projeto Operação Serenata de Amor. Formou-se sem Informática Biomédica onde descobriu a paixão por ciência de dados analisando dados genômicos e flertando com processamento de linguagem natural durante a graduação.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/jesstemporal"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/jessicatemporal"},
+          { "type": "github", "url": "https://github.com/jtemporal"}
+        ]
       }
     },
     {
@@ -188,16 +188,16 @@
       "slides": "",
       "details": "Aplicações distribuidas estão cada vez mais comuns no dia a dia dos desenvolvedores: Seja devido à adoção de arquiteturas orientadas a ~micro~serviços, single page applications, aplicações mobile, etc.<br />Dado esse caminho sem volta, é fundamental que nós, desenvolvedores, sejamos capazes de raciocinar sobre tais sistemas e entender onde a nossa lógica geralmente baseada em sistemas monolíticos começa a falhar.<br /> Nessa apresentação vamos abordar temas como consistência, disponibilidade, deploy, arquiteturas de dados, redes, relógios, testes, performance e explorar *por que* esses assuntos merecem ser compreendidos (e como eles podem tirar nosso sono).",
       "speaker": {
-          "name": "Renan Ranelli",
-          "enterprise": "TamingChaos",
-          "photo": "assets/img/2018_renan_ranelli.jpeg",
-          "priority": 9,
-          "bio": "Sou engenheiro de software focando em backend e banco de dados, nos ultimos 2 anos trabalhei com Elixir, Clojure e Python. Antes disso, passei longas temporadas no ecossistema Ruby e C#. Já trabalhei em projetos grandes, pequenos, legados e novos. Em uma vida passada fui Engenheiro Químico.",
-          "social": [
-              { "type": "twitter", "url": "https://twitter.com/renanranelli"},
-              { "type": "linkedin", "url": "https://br.linkedin.com/in/renan-ranelli"},
-              { "type": "github", "url": "https://github.com/rranelli"}
-          ]
+        "name": "Renan Ranelli",
+        "enterprise": "TamingChaos",
+        "photo": "assets/img/2018_renan_ranelli.jpeg",
+        "priority": 9,
+        "bio": "Sou engenheiro de software focando em backend e banco de dados, nos ultimos 2 anos trabalhei com Elixir, Clojure e Python. Antes disso, passei longas temporadas no ecossistema Ruby e C#. Já trabalhei em projetos grandes, pequenos, legados e novos. Em uma vida passada fui Engenheiro Químico.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/renanranelli"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/renan-ranelli"},
+          { "type": "github", "url": "https://github.com/rranelli"}
+        ]
       }
     },
     {
@@ -210,19 +210,19 @@
     }
   ],
   "sponsors": {
-        "diamond": [
-            { "name": "S2it", "link": "https://s2it.com.br/", "logo": "/assets/img/logos/s2it.png"},
-            { "name": "Fast Track", "link": "http://ft.ventures/", "logo": "/assets/img/logos/fast-track.png"},
-            { "name": "Monitora", "link": "http://monitoratec.com.br/", "logo": "/assets/img/logos/monitora.png"},
-            { "name": "Serasa Experian", "link": "https://www.serasaexperian.com.br/", "logo": "/assets/img/logos/serasaexperian.png"}
-        ],
-        "gold": [
-            { "name": "Programer's", "link": "http://www.programmers.com.br", "logo": "/assets/img/logos/programers.png"}
-        ]
-    },
-    "partners": [
-        { "name": "IFSP", "link": "http://www.ifspsaocarlos.edu.br/portal/", "logo": "/assets/img/logos/logo-ifsp.png"},
-        { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": "/assets/img/logos/logo-ufscar.png"},
-        { "name": "InfoQ Brasil", "link": "https://www.infoq.com/br/", "logo": "/assets/img/logos/infoqbrasil-logo.png"}
+    "diamond": [
+      { "name": "S2it", "link": "https://s2it.com.br/", "logo": "/assets/img/logos/s2it.png"},
+      { "name": "Fast Track", "link": "http://ft.ventures/", "logo": "/assets/img/logos/fast-track.png"},
+      { "name": "Monitora", "link": "http://monitoratec.com.br/", "logo": "/assets/img/logos/monitora.png"},
+      { "name": "Serasa Experian", "link": "https://www.serasaexperian.com.br/", "logo": "/assets/img/logos/serasaexperian.png"}
+    ],
+    "gold": [
+      { "name": "Programer's", "link": "http://www.programmers.com.br", "logo": "/assets/img/logos/programers.png"}
     ]
+  },
+  "partners": [
+    { "name": "IFSP", "link": "http://www.ifspsaocarlos.edu.br/portal/", "logo": "/assets/img/logos/logo-ifsp.png"},
+    { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": "/assets/img/logos/logo-ufscar.png"},
+    { "name": "InfoQ Brasil", "link": "https://www.infoq.com/br/", "logo": "/assets/img/logos/infoqbrasil-logo.png"}
+  ]
 }
