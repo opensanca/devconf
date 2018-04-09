@@ -166,9 +166,9 @@
     },
     {
       "time": "16:30 - 17:10",
-      "title": "em definição",
+      "title": "Ciência de dados no mundo real com Serenata de Amor",
       "slides": "",
-      "details": "",
+      "details": "É possível fazer ciências de dados no mundo real? Conheça mais sobre a Serenata de Amor, projeto que enfrentou todas as dificuldades de lidar com dados abertos governamentais e mostrou que é possível identificar gastos irregulares dos nossos deputados utilizando dos dados abertos e muito Python.",
       "speaker": {
         "name": "Jessica Temporal",
         "enterprise": "Nuveo",
