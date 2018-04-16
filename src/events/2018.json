@@ -51,7 +51,7 @@
       "details": "O objetivo dessa palestra é compartilhar experiências recentes lidando com APIs com alto throughput, falhas de comunicação entre componentes, bancos de dados, serviços externos, etc.<br/><br/>Nós iremos explorar aplicações do mundo real do meu dia a dia e veremos algumas soluções como Circuit Breakers, Cache Stale, Service Mesh e outras coisas que podem garantir a resiliência e uptime do seu serviço.<br /><br />Iremos também cobrir algumas questões de como a aplicação deve se comportar quando: O banco de dados não está disponível; Alguns serviços externos estão quebrados ou com um tempo de resposta não aceitável; Rede está falhando por algum motivo.",
       "speaker": {
         "name": "Emerson Macedo",
-        "enterprise": "Globo.com",
+        "enterprise": "Olx",
         "photo": "assets/img/2018_emerson_macedo.jpeg",
         "priority": 2,
         "bio": "Problem solver. Programador apaixonado. Meu objetivo é sempre buscar como posso agregar valor para alguém. 19 anos trabalhando profissionalmente, trabalhei para portais web, seguradoras, telecomunicações, bancos, entre outros. Programador agnóstico.",
