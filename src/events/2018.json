@@ -46,68 +46,6 @@
     },
     {
       "time": "09:20 - 10:00",
-      "title": "Os tipos escondidos na sua UI",
-      "slides": "",
-      "details": "Tipos estão escondidos mesmo nas UIs mais simples. Dados a carregar, listas de conteúdo, status da conexão e muitos outros que nem sempre são explícitos. Usando exemplos de UIs reais, eu o/a ajudarei a desvendá-los, evitando assim problemas inesperados em runtime.",
-      "speaker": {
-        "name": "Hugo Bessa",
-        "enterprise": "Toptal",
-        "photo": "assets/img/2018_hugo_bessa.jpeg",
-        "priority": 2,
-        "bio": "Desenvolvedor front-end com foco em simplicidade. Há 4 anos lutando contra problemas de tipos e outros monstros desconhecidos.",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/hugobessaa"},
-          { "type": "linkedin", "url": "https://br.linkedin.com/in/hugobessa"},
-          { "type": "github", "url": "https://github.com/hugobessaa"}
-        ]
-      }
-    },
-    {
-      "time": "10:00 - 10:30",
-      "title": "Coffee Break"
-    },
-    {
-      "time": "10:30 - 11:10",
-      "title": "Criando animações avançadas com Greensock",
-      "slides": "",
-      "details": "Também nunca ouviu falar em Greensock? Ficaria surpreendido se eu dissesse que mais da metade dos sites premiados de 2017 usaram essa biblioteca? Pois é, vamos aprender e conhecer essa incrível biblioteca de animações!",
-      "speaker": {
-        "name": "Willian Justen",
-        "enterprise": "Toptal",
-        "photo": "assets/img/2018_willian_justen.jpeg",
-        "priority": 3,
-        "bio": "Desenvolvedor Front-end na Toptal, escritor de blog nas horas vagas e instrutor de cursos na Udemy com mais de 30 mil alunos. Sou apaixonado por tecnologia e compartilhamento de conhecimento, nos últimos tempos tenho me dedicado a criação de cursos, discussões sobre trabalho remoto e fotografia, onde acabei ganhando prêmio de fotógrafo de 2017 pelo Unsplash.",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/willian_justen"},
-          { "type": "linkedin", "url": "https://br.linkedin.com/in/willianjusten"},
-          { "type": "github", "url": "https://github.com/willianjusten"}
-        ]
-      }
-    },
-    {
-      "time": "11:10 - 11:50",
-      "title": "Criando um chatbot para automação de tarefas utilizando IBM Watson + Telegram + Python + Django",
-      "slides": "",
-      "details": "Venha conhecer mais sobre chatbots e como eles podem ser útil na automação de atividades! <br /> Vamos integrar tudo e demonstrar como tudo é mais simples do que parece, seu bot funcional em 30 minutos, eu garanto! <br /> Iremos construir um bot que irá interagir com o usuário e já realizar ações que antes era manual, no nosso exemplo, nosso bot irá realizar uma troca de senha para o usuário, tudo automático, sem intervenção humana, mas com uma interação que irá simular um humano. <br /> Iremos fazer tudo isso, criando uma inteligência usando o IBM Watson, onde iremos integrar com um Client feito em Python/Django, que será responsável pelas ações (como a troca de senha) e também será responsável por receber a repassar a mensagem para nosso Bot no Telegram! =D <br /> E se você não programa em Python, fique tranquilo, vou demonstrar como você pode fazer tudo isso na linguagem de sua preferência! =D",
-      "speaker": {
-        "name": "Rafael Galleani",
-        "enterprise": "Global Hitss",
-        "photo": "assets/img/2018_rafael_galleani.jpg",
-        "priority": 4,
-        "bio": "Desenvolvedor full-stack, apaixonado por tecnologia e outras modinhas. Tenho 10 anos de experiência, após ter feito de tudo na área, nos últimos anos tenho me dedicado a cultura DevOps, Python e Chatbot. Também mantenho um blog e um canal no youtube.",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/rafegal" },
-          { "type": "linkedin", "url": "https://br.linkedin.com/in/rafael-galleani/" },
-          { "type": "github", "url": "https://github.com/rafegal" }
-        ]
-      }
-    },
-    {
-      "time": "11:50 - 14:00",
-      "title": "Almoço"
-    },
-    {
-      "time": "14:00 - 14:40",
       "title": "Como sua aplicação deve se comportar quando tudo dá errado?",
       "slides": "",
       "details": "O objetivo dessa palestra é compartilhar experiências recentes lidando com APIs com alto throughput, falhas de comunicação entre componentes, bancos de dados, serviços externos, etc.<br/><br/>Nós iremos explorar aplicações do mundo real do meu dia a dia e veremos algumas soluções como Circuit Breakers, Cache Stale, Service Mesh e outras coisas que podem garantir a resiliência e uptime do seu serviço.<br /><br />Iremos também cobrir algumas questões de como a aplicação deve se comportar quando: O banco de dados não está disponível; Alguns serviços externos estão quebrados ou com um tempo de resposta não aceitável; Rede está falhando por algum motivo.",
@@ -115,7 +53,7 @@
         "name": "Emerson Macedo",
         "enterprise": "Globo.com",
         "photo": "assets/img/2018_emerson_macedo.jpeg",
-        "priority": 5,
+        "priority": 2,
         "bio": "Problem solver. Programador apaixonado. Meu objetivo é sempre buscar como posso agregar valor para alguém. 19 anos trabalhando profissionalmente, trabalhei para portais web, seguradoras, telecomunicações, bancos, entre outros. Programador agnóstico.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/emerleite" },
@@ -125,25 +63,29 @@
       }
     },
     {
-      "time": "14:40 - 15:20",
-      "title": "Além dos paradigmas: abordagem prática para dominar linguagens",
+      "time": "10:00 - 10:30",
+      "title": "Coffee Break"
+    },
+    {
+      "time": "10:30 - 11:10",
+      "title": "Criando um chatbot para automação de tarefas utilizando IBM Watson + Telegram + Python + Django",
       "slides": "",
-      "details": "Linguagens pragmáticas não encaixam nos paradigmas tradicionais - imperativa, funcional, OO etc. A teoria moderna deixa os paradigmas de lado, e enfoca características essenciais: closures, módulos, sistema de tipos, etc. <br/>Veremos como esse foco ilumina o uso prático e idiomático de linguagens como Python e Go.",
+      "details": "Venha conhecer mais sobre chatbots e como eles podem ser útil na automação de atividades! <br /> Vamos integrar tudo e demonstrar como tudo é mais simples do que parece, seu bot funcional em 30 minutos, eu garanto! <br /> Iremos construir um bot que irá interagir com o usuário e já realizar ações que antes era manual, no nosso exemplo, nosso bot irá realizar uma troca de senha para o usuário, tudo automático, sem intervenção humana, mas com uma interação que irá simular um humano. <br /> Iremos fazer tudo isso, criando uma inteligência usando o IBM Watson, onde iremos integrar com um Client feito em Python/Django, que será responsável pelas ações (como a troca de senha) e também será responsável por receber a repassar a mensagem para nosso Bot no Telegram! =D <br /> E se você não programa em Python, fique tranquilo, vou demonstrar como você pode fazer tudo isso na linguagem de sua preferência! =D",
       "speaker": {
-        "name": "Luciano Ramalho",
-        "enterprise": "ThoughtWorks",
-        "photo": "assets/img/2018_luciano_ramalho.jpeg",
-        "priority": 6,
-        "bio": "Luciano Ramalho é consultor na ThoughtWorks e autor do livro Python Fluente (O'Reilly/Novatec, 2015). É co-fundador do Garoa Hacker Clube, o primeiro hackerspace do Brasil.",
+        "name": "Rafael Galleani",
+        "enterprise": "Global Hitss",
+        "photo": "assets/img/2018_rafael_galleani.jpg",
+        "priority": 3,
+        "bio": "Desenvolvedor full-stack, apaixonado por tecnologia e outras modinhas. Tenho 10 anos de experiência, após ter feito de tudo na área, nos últimos anos tenho me dedicado a cultura DevOps, Python e Chatbot. Também mantenho um blog e um canal no youtube.",
         "social": [
-          { "type": "twitter", "url": "https://twitter.com/ramalhoorg" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/lucianoramalho" },
-          { "type": "github", "url": "https://github.com/ramalho" }
+          { "type": "twitter", "url": "https://twitter.com/rafegal" },
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/rafael-galleani/" },
+          { "type": "github", "url": "https://github.com/rafegal" }
         ]
       }
     },
     {
-      "time": "15:20 - 16:00",
+      "time": "11:10 - 11:50",
       "title": "Arquitetura Hexagonal",
       "slides": "",
       "details": "Todo mundo fica frustrado quando demora muito mais do que deveria para entregar uma funcionalidade que era pra ser simples. Pra resolver esse problema (e outros) é que surge a Arquitetura Hexagonal, também conhecida como Ports & Adapters, cujo objetivo é minimizar o trabalho de criar ou fazer modificações em um software. Essa talk irá apresentar o que é essa arquitetura, por que ela existe e como ela funciona, passando por todo o caminho que um recurso faz no software.",
@@ -151,7 +93,7 @@
         "name": "Camila Campos",
         "enterprise": "Creditas",
         "photo": "assets/img/2018_camila_campos.jpg",
-        "priority": 7,
+        "priority": 4,
         "bio": "Formada em Sistemas de Informação na EACH-USP, a chata dos testes que trabalha como engenheira de software na Creditas e organiza o Rails Girls São Paulo e o Women Dev Summit.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/camposmilaa" },
@@ -161,11 +103,47 @@
       }
     },
     {
-      "time": "16:00 - 16:30",
-      "title": "Coffee Break"
+      "time": "11:50 - 14:00",
+      "title": "Almoço"
     },
     {
-      "time": "16:30 - 17:10",
+      "time": "14:00 - 14:40",
+      "title": "Criando animações avançadas com Greensock",
+      "slides": "",
+      "details": "Também nunca ouviu falar em Greensock? Ficaria surpreendido se eu dissesse que mais da metade dos sites premiados de 2017 usaram essa biblioteca? Pois é, vamos aprender e conhecer essa incrível biblioteca de animações!",
+      "speaker": {
+        "name": "Willian Justen",
+        "enterprise": "Toptal",
+        "photo": "assets/img/2018_willian_justen.jpeg",
+        "priority": 5,
+        "bio": "Desenvolvedor Front-end na Toptal, escritor de blog nas horas vagas e instrutor de cursos na Udemy com mais de 30 mil alunos. Sou apaixonado por tecnologia e compartilhamento de conhecimento, nos últimos tempos tenho me dedicado a criação de cursos, discussões sobre trabalho remoto e fotografia, onde acabei ganhando prêmio de fotógrafo de 2017 pelo Unsplash.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/willian_justen"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/willianjusten"},
+          { "type": "github", "url": "https://github.com/willianjusten"}
+        ]
+      }
+    },
+    {
+      "time": "14:40 - 15:20",
+      "title": "Raciocinando sobre sistemas distribuidos",
+      "slides": "",
+      "details": "Aplicações distribuidas estão cada vez mais comuns no dia a dia dos desenvolvedores: Seja devido à adoção de arquiteturas orientadas a ~micro~serviços, single page applications, aplicações mobile, etc.<br />Dado esse caminho sem volta, é fundamental que nós, desenvolvedores, sejamos capazes de raciocinar sobre tais sistemas e entender onde a nossa lógica geralmente baseada em sistemas monolíticos começa a falhar.<br /> Nessa apresentação vamos abordar temas como consistência, disponibilidade, deploy, arquiteturas de dados, redes, relógios, testes, performance e explorar *por que* esses assuntos merecem ser compreendidos (e como eles podem tirar nosso sono).",
+      "speaker": {
+        "name": "Renan Ranelli",
+        "enterprise": "Telnyx LLC",
+        "photo": "assets/img/2018_renan_ranelli.jpeg",
+        "priority": 6,
+        "bio": "Sou engenheiro de software focando em backend e banco de dados, nos ultimos 2 anos trabalhei com Elixir, Clojure e Python. Antes disso, passei longas temporadas no ecossistema Ruby e C#. Já trabalhei em projetos grandes, pequenos, legados e novos. Em uma vida passada fui Engenheiro Químico.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/renanranelli"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/renan-ranelli"},
+          { "type": "github", "url": "https://github.com/rranelli"}
+        ]
+      }
+    },
+    {
+      "time": "15:20 - 16:00",
       "title": "Ciência de dados no mundo real com Serenata de Amor",
       "slides": "",
       "details": "É possível fazer ciências de dados no mundo real? Conheça mais sobre a Serenata de Amor, projeto que enfrentou todas as dificuldades de lidar com dados abertos governamentais e mostrou que é possível identificar gastos irregulares dos nossos deputados utilizando dos dados abertos e muito Python.",
@@ -173,7 +151,7 @@
         "name": "Jessica Temporal",
         "enterprise": "Nuveo",
         "photo": "assets/img/2018_jessica_temporal.png",
-        "priority": 8,
+        "priority": 7,
         "bio": "Desenvolvedora e cientista de dados na Nuveo, co-fundadora do podcast brasileiro sobre ciência de dados o Pizza de Dados, PyLady e também mantenedora do projeto Operação Serenata de Amor. Formou-se sem Informática Biomédica onde descobriu a paixão por ciência de dados analisando dados genômicos e flertando com processamento de linguagem natural durante a graduação.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/jesstemporal"},
@@ -183,20 +161,42 @@
       }
     },
     {
-      "time": "17:10 - 17:50",
-      "title": "Raciocinando sobre sistemas distribuidos",
+      "time": "16:00 - 16:30",
+      "title": "Coffee Break"
+    },
+    {
+      "time": "16:30 - 17:10",
+      "title": "Os tipos escondidos na sua UI",
       "slides": "",
-      "details": "Aplicações distribuidas estão cada vez mais comuns no dia a dia dos desenvolvedores: Seja devido à adoção de arquiteturas orientadas a ~micro~serviços, single page applications, aplicações mobile, etc.<br />Dado esse caminho sem volta, é fundamental que nós, desenvolvedores, sejamos capazes de raciocinar sobre tais sistemas e entender onde a nossa lógica geralmente baseada em sistemas monolíticos começa a falhar.<br /> Nessa apresentação vamos abordar temas como consistência, disponibilidade, deploy, arquiteturas de dados, redes, relógios, testes, performance e explorar *por que* esses assuntos merecem ser compreendidos (e como eles podem tirar nosso sono).",
+      "details": "Tipos estão escondidos mesmo nas UIs mais simples. Dados a carregar, listas de conteúdo, status da conexão e muitos outros que nem sempre são explícitos. Usando exemplos de UIs reais, eu o/a ajudarei a desvendá-los, evitando assim problemas inesperados em runtime.",
       "speaker": {
-        "name": "Renan Ranelli",
-        "enterprise": "TamingChaos",
-        "photo": "assets/img/2018_renan_ranelli.jpeg",
-        "priority": 9,
-        "bio": "Sou engenheiro de software focando em backend e banco de dados, nos ultimos 2 anos trabalhei com Elixir, Clojure e Python. Antes disso, passei longas temporadas no ecossistema Ruby e C#. Já trabalhei em projetos grandes, pequenos, legados e novos. Em uma vida passada fui Engenheiro Químico.",
+        "name": "Hugo Bessa",
+        "enterprise": "Toptal",
+        "photo": "assets/img/2018_hugo_bessa.jpeg",
+        "priority": 8,
+        "bio": "Desenvolvedor front-end com foco em simplicidade. Há 4 anos lutando contra problemas de tipos e outros monstros desconhecidos.",
         "social": [
-          { "type": "twitter", "url": "https://twitter.com/renanranelli"},
-          { "type": "linkedin", "url": "https://br.linkedin.com/in/renan-ranelli"},
-          { "type": "github", "url": "https://github.com/rranelli"}
+          { "type": "twitter", "url": "https://twitter.com/hugobessaa"},
+          { "type": "linkedin", "url": "https://br.linkedin.com/in/hugobessa"},
+          { "type": "github", "url": "https://github.com/hugobessaa"}
+        ]
+      }
+    },
+    {
+      "time": "17:10 - 17:50",
+      "title": "Além dos paradigmas: abordagem prática para dominar linguagens",
+      "slides": "",
+      "details": "Linguagens pragmáticas não encaixam nos paradigmas tradicionais - imperativa, funcional, OO etc. A teoria moderna deixa os paradigmas de lado, e enfoca características essenciais: closures, módulos, sistema de tipos, etc. <br/>Veremos como esse foco ilumina o uso prático e idiomático de linguagens como Python e Go.",
+      "speaker": {
+        "name": "Luciano Ramalho",
+        "enterprise": "ThoughtWorks",
+        "photo": "assets/img/2018_luciano_ramalho.jpeg",
+        "priority": 9,
+        "bio": "Luciano Ramalho é consultor na ThoughtWorks e autor do livro Python Fluente (O'Reilly/Novatec, 2015). É co-fundador do Garoa Hacker Clube, o primeiro hackerspace do Brasil.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/ramalhoorg" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/lucianoramalho" },
+          { "type": "github", "url": "https://github.com/ramalho" }
         ]
       }
     },
