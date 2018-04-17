@@ -126,7 +126,7 @@
     },
     {
       "time": "14:40 - 15:20",
-      "title": "Raciocinando sobre sistemas distribuidos",
+      "title": "Raciocinando sobre sistemas distribuídos",
       "slides": "",
       "details": "Aplicações distribuidas estão cada vez mais comuns no dia a dia dos desenvolvedores: Seja devido à adoção de arquiteturas orientadas a ~micro~serviços, single page applications, aplicações mobile, etc.<br />Dado esse caminho sem volta, é fundamental que nós, desenvolvedores, sejamos capazes de raciocinar sobre tais sistemas e entender onde a nossa lógica geralmente baseada em sistemas monolíticos começa a falhar.<br /> Nessa apresentação vamos abordar temas como consistência, disponibilidade, deploy, arquiteturas de dados, redes, relógios, testes, performance e explorar *por que* esses assuntos merecem ser compreendidos (e como eles podem tirar nosso sono).",
       "speaker": {
