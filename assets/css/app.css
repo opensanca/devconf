@@ -1322,7 +1322,9 @@ section {
 .speaker__grow { transition: all .2s ease-in-out;}
 .speaker__grow:hover { transform: scale(1.1);}
 
-
+.speaker__grow > img {
+    width: 100%
+}
 
 
 /*animação do efeito hover do mouse sobre os thumbs*/
