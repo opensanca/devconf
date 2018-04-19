@@ -47,7 +47,20 @@
 }
 
 .speaker__profile-info {
+  min-height: 250px;
   padding-bottom: 15px;
+}
+
+@media screen and (min-width: 970px) {
+  .speaker__profile-info {
+    min-height: 340px;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .speaker__profile-info {
+    min-height: 380px;
+  }
 }
 
 .speaker__profile-social a:hover {
@@ -61,6 +74,9 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 .speaker__grow { transition: all .2s ease-in-out;}
 .speaker__grow:hover { transform: scale(1.1);}
 
+.speaker__grow > img {
+  width: 100%
+}
 
 
 
