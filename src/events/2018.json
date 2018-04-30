@@ -184,21 +184,9 @@
     },
     {
       "time": "17:10 - 17:50",
-      "title": "Além dos paradigmas: abordagem prática para dominar linguagens",
+      "title": "",
       "slides": "",
-      "details": "Linguagens pragmáticas não encaixam nos paradigmas tradicionais - imperativa, funcional, OO etc. A teoria moderna deixa os paradigmas de lado, e enfoca características essenciais: closures, módulos, sistema de tipos, etc. <br/>Veremos como esse foco ilumina o uso prático e idiomático de linguagens como Python e Go.",
-      "speaker": {
-        "name": "Luciano Ramalho",
-        "enterprise": "ThoughtWorks",
-        "photo": "assets/img/2018_luciano_ramalho.jpeg",
-        "priority": 9,
-        "bio": "Luciano Ramalho é consultor na ThoughtWorks e autor do livro Python Fluente (O'Reilly/Novatec, 2015). É co-fundador do Garoa Hacker Clube, o primeiro hackerspace do Brasil.",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/ramalhoorg" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/lucianoramalho" },
-          { "type": "github", "url": "https://github.com/ramalho" }
-        ]
-      }
+      "details": ""
     },
     {
       "time": "17:50 - 18:30",
