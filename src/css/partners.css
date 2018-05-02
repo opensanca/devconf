@@ -2,11 +2,13 @@
   margin-bottom: 50px;
 }
 
-.partners__logos {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  text-align: center;
+.partners__logo_box {
+  width: 160px;
+}
+
+
+.partner {
+  min-height: 160px;
 }
 
 .partners__logos img {

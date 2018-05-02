@@ -209,8 +209,14 @@
     ]
   },
   "partners": [
-    { "name": "IFSP", "link": "http://www.ifspsaocarlos.edu.br/portal/", "logo": "/assets/img/logos/logo-ifsp.png"},
-    { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": "/assets/img/logos/logo-ufscar.png"},
-    { "name": "InfoQ Brasil", "link": "https://www.infoq.com/br/", "logo": "/assets/img/logos/infoqbrasil-logo.png"}
+    { "name": "IFSP", "link": "http://www.ifspsaocarlos.edu.br/portal/", "logo": "/assets/img/logos/logo-ifsp.png" },
+    { "name": "UFSCar", "link": "http://www2.ufscar.br/", "logo": "/assets/img/logos/logo-ufscar.png" },
+    { "name": "InfoQ Brasil", "link": "https://www.infoq.com/br/", "logo": "/assets/img/logos/infoqbrasil-logo.png" },
+    { "name": "Algaworks", "link": "http://www.algaworks.com/", "logo": "/assets/img/logos/algaworks.png" },
+    { "name": "Alura", "link": "http://www.alura.com.br/", "logo": "/assets/img/logos/alura.png" },
+    { "name": "Casa do Código", "link": "http://www.casadocodigo.com.br/", "logo": "/assets/img/logos/casa-do-codigo.png" },
+    { "name": "Egghead", "link": "http://www.egghead.io/", "logo": "/assets/img/logos/egghead.png" },
+    { "name": "OLX", "link": "http://www.olx.com.br/", "logo": "/assets/img/logos/olx.png" },
+    { "name": "Treina Web", "link": "https://www.treinaweb.com.br/", "logo": "/assets/img/logos/treina-web.png" }
   ]
 }
