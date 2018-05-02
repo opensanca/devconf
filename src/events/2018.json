@@ -184,9 +184,21 @@
     },
     {
       "time": "17:10 - 17:50",
-      "title": "",
+      "title": "Código simples: Navalha de Occam para desenvolvedores",
       "slides": "",
-      "details": ""
+      "details": "",
+      "speaker": {
+        "name": "Eustáquio Rangel (Taq)",
+        "enterprise": "Bluefish",
+        "photo": "assets/img/2018_taq.jpeg",
+        "priority": 9,
+        "bio": "",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/taq" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/eustaquio-rangel-de-oliveira-jr-a446a328/" },
+          { "type": "github", "url": "https://github.com/taq" }
+        ]
+      }
     },
     {
       "time": "17:50 - 18:30",
