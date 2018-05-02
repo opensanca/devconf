@@ -186,13 +186,13 @@
       "time": "17:10 - 17:50",
       "title": "Código simples: Navalha de Occam para desenvolvedores",
       "slides": "",
-      "details": "",
+      "details": "Hoje muitas ferramentas/linguagens para desenvolvimento de software fornecem uma facilidade tão grande que alguns desenvolvedores conseguem inserir complexidade onde era simples. Vamos discutir essas práticas de complexidade desnecessária, seja no código, seja na infraestrutura, seja no modo de pensar onde ainda algumas vezes perdura um sentimento de que a complexidade estaria associada á código mais 'profissional' ou 'hacker', quando as soluções mais simples se mostram cada vez mais melhores para desenvolvimento de software a curto, médio e longo prazo.",
       "speaker": {
         "name": "Eustáquio Rangel (Taq)",
         "enterprise": "Bluefish",
         "photo": "assets/img/2018_taq.jpeg",
         "priority": 9,
-        "bio": "",
+        "bio": "Desenvolvedor na área por mais de 2 décadas, programa em várias linguagens e é entusiasta de Software Livre, do qual é mantenedor de vários projetos, e autor de tutoriais de Ruby e Rails e do primeiro livro de Ruby do Brasil. Também publica ebooks sobre Ruby, Rails e Git.\nSócio e desenvolvedor na empresa Bluefish, que trabalha com consultoria, treinamento e desenvolvimento utilizando apenas soluções de Software Livre.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/taq" },
           { "type": "linkedin", "url": "https://www.linkedin.com/in/eustaquio-rangel-de-oliveira-jr-a446a328/" },
