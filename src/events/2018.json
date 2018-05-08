@@ -218,6 +218,9 @@
     ],
     "gold": [
       { "name": "Programer's", "link": "http://www.programmers.com.br", "logo": "/assets/img/logos/programers.png"}
+    ],
+    "bronze": [
+      { "name": "ContaAzul", "link": "https://contaazul.com.br", "logo": "/assets/img/logos/logo_contaazul.png"}
     ]
   },
   "partners": [
