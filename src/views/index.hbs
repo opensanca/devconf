@@ -11,7 +11,7 @@
   <!-- Open Graph -->
   <meta property="og:title" content="{{{info.title}}}" />
   <meta property="og:type" content="programação, docker, agile, javascript, mobile" />
-  <meta property="og:site_name" content="DevConf" />
+  <meta property="og:site_name" content="{{{ info.eventName }}}" />
   <meta property="og:url" content="http://devconf.opensanca.com.br" />
   <meta property="og:image" content="http://opensanca.com.br/devconf/assets/img/Love-Coding.jpg" />
   <!-- IE polyfills, keep the order please -->
@@ -41,7 +41,7 @@
         <div id="google-container"></div>
         <div id="cd-zoom-in"></div>
         <div id="cd-zoom-out"></div>
-        <address>Anfiteatro Bento Prado Junior -  UFSCar | Rod. Washington Luis, km 235 - São Carlos/SP</address>
+        <address> {{ info.place }}| {{ info.address }}</address>
     </section>
 
     {{> section/contact }}

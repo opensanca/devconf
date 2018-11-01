@@ -4,7 +4,7 @@
   "scripts": {
   },
   "env": {
-    "YEAR": "2018",
+    "YEAR": "2018_pocket",
     "NODE_ENV": "development",
     "NPM_CONFIG_PRODUCTION": "false"
   },
