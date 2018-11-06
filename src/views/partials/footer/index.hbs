@@ -2,9 +2,9 @@
         <div class="wrapper">
         <div class="footer__info">
             <div class="footer__info-brand">
-            <img src="assets/img/opensanca.svg" alt="DevConf - Somos Caipiras e gostamos de Tecnologia">
+              <img src="assets/img/opensanca.svg" alt="{{ info.eventName }} - Somos Caipiras e gostamos de Tecnologia">
             <p>
-                DevConf - Somos caipiras e gostamos de tecnologia © Opensanca {{info.year}}
+              {{ info.eventName }} - Somos caipiras e gostamos de tecnologia © Opensanca {{info.year}}
             </p>
             </div>
 
@@ -31,7 +31,7 @@
         <div class="footer__more">
             <div class="footer__links">
             <ul>
-                <li><a href="codigo-conduta-devconf.html" target="_blank">Código de Conduta DevConf {{ info.year }}</a></li>
+              <li><a href="codigo-conduta-devconf.html" target="_blank">Código de Conduta {{ info.eventName }} {{ info.year }}</a></li>
             </ul>
             </div>
             <div class="footer__info-social">

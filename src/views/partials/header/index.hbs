@@ -12,7 +12,7 @@
 
         <div class="award">
         <div>
-          <p class="award__title">DevConf {{ info.year }}</p>
+          <p class="award__title">{{ info.eventName }} {{ info.year }}</p>
           <p>
             Somos caipiras e gostamos de tecnologia
           </p>
@@ -21,7 +21,7 @@
       <nav class="nav">
         <ul class="nav__list">
           {{! > header/dropdown }}
-          {{> header/item label="DevConf" href="#about" }}
+          {{> header/item label=info.eventName href="#about" }}
           {{> header/item label="Palestrantes" href="#speaker"}}
           {{> header/item label="Programação" href="#schedule"}}
           {{> header/item label="Patrocinadores" href="#sponsor" }}
