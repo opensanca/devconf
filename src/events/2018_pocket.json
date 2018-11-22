@@ -33,7 +33,7 @@
       "details": "Vivemos em uma era em que os recursos tem se tornando cada dia mais escassos e o desperdício deve ser evitado a todo custo. Na produção de software essa máxima não é diferente. Ser eficaz e fazer a coisa certa é determinante para o sucesso de um projeto ou produto de software. E, ser eficiente para construí-lo da forma mais certa possível torna viável a entrega de software de maneira competitiva. Nesta palestra discutiremos como o fluxo Upstream e Downstream pode maximizar a entrega de valor de negócio de maneira eficaz e eficiente.",
       "speaker": {
         "name": "Deysiane Sande",
-        "enterprise": "Serasa Experian",
+        "company": "Serasa Experian",
         "photo": "assets/img/2018_pocket_deysiane.jpeg",
         "priority": 1,
         "bio": "Agile Master na Serasa Experian. Dedica sua carreira ao gerenciamento de projetos voltados ao mindset ágil e a transformação da cultura de organizações. Mestre em Ciência da Computação com foco em Engenharia de Software, Qualidade e Métodos Ágeis.\nOrganizadora da comunidade Opensanca e organizadora do InterÁgil."
@@ -45,7 +45,7 @@
       "details": "Nesta palestra pretendo falar um pouco sobre data science segundo a minha experiência, os projetos da área nos quais trabalhei e pequenos exemplos de código python para realizar tarefas comuns aos projetos de Data Science, como visualização de dados e treinamento de modelos preditivos.",
       "speaker": {
         "name": "Mariana Lopes",
-        "enterprise": "Descomplica",
+        "company": "Descomplica",
         "photo": "assets/img/2018_pocket_mariana.jpg",
         "priority": 2,
         "bio": "Mariana é Data Scientist na Descomplica ,mestre em Ciência da Computação na área de Inteligência Artificial, pela Universidade Federal de São Carlos (UFSCar) e bacharel em Ciência da Computação pela mesma instituição. Atua como Data Scientist no mercado desde 2015 e desde 2011 trabalha com Machine Learning, tendo desenvolvido seus trabalhos de conclusão de curso e mestrado nesta área."
