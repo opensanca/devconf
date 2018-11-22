@@ -41,7 +41,15 @@
     },
     {
       "time": "09:50 - 10:40",
-      "title": "A ser definido"
+      "title": "Um Overview de Data Science",
+      "details": "Nesta palestra pretendo falar um pouco sobre data science segundo a minha experiência, os projetos da área nos quais trabalhei e pequenos exemplos de código python para realizar tarefas comuns aos projetos de Data Science, como visualização de dados e treinamento de modelos preditivos.",
+      "speaker": {
+        "name": "Mariana Lopes",
+        "enterprise": "Descomplica",
+        "photo": "assets/img/2018_pocket_mariana.jpg",
+        "priority": 2,
+        "bio": "Mariana é Data Scientist na Descomplica ,mestre em Ciência da Computação na área de Inteligência Artificial, pela Universidade Federal de São Carlos (UFSCar) e bacharel em Ciência da Computação pela mesma instituição. Atua como Data Scientist no mercado desde 2015 e desde 2011 trabalha com Machine Learning, tendo desenvolvido seus trabalhos de conclusão de curso e mestrado nesta área."
+      }
     },
     {
       "time": "10:40 - 11:00",
