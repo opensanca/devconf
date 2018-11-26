@@ -85,7 +85,15 @@
     },
     {
       "time": "14:50 - 15:40",
-      "title": "A ser definido"
+      "title": "Reaproveitamento de Código com React-Redux",
+      "details": "A maior dificuldade que os desenvolvedores enfrentam hoje em dia é reaproveitar código. No universo Front-End a duplicação de código tende a fazer com que a aplicação vire uma bagunça. Nesta talk espero mostrar o funcionamento completo da arquitetura de duas camadas, a visualização (React) e estados (Redux). Com essa arquitetura a equipe de Front-End da Arquivei consegue ter uma flexibilidade incrível no contrato com o backend e na validação de protótipos com a equipe de produto e design. A minha proposta é conseguir aprofundar sobre essa arquitetura com a galera do OpenSanca, mostrando suas limitações e seus benefícios. <br/>Segue um artigo em que falo brevemente das inspirações da arquitetura (Store<>View). <br><a href='https://medium.com/@toruticas/iniciando-uma-aplica%C3%A7%C3%A3o-de-frontend-a-partir-de-um-monsterlito-bb7aca1476e0'>https://medium.com/@toruticas/iniciando-uma-aplica%C3%A7%C3%A3o-de-frontend-a-partir-de-um-monsterlito-bb7aca1476e0</a>",
+      "speaker": {
+        "name": "Rafael Mariano",
+        "company": "Arquivei",
+        "photo": "assets/img/2018_pocket_rafael.jpeg",
+        "priority": 5,
+        "bio": ""
+      }
     },
     {
       "time": "15:40 - 16:00",
