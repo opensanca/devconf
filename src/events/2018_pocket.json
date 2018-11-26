@@ -41,14 +41,14 @@
     },
     {
       "time": "09:50 - 10:40",
-      "title": "Um Overview de Data Science",
-      "details": "Nesta palestra pretendo falar um pouco sobre data science segundo a minha experiência, os projetos da área nos quais trabalhei e pequenos exemplos de código python para realizar tarefas comuns aos projetos de Data Science, como visualização de dados e treinamento de modelos preditivos.",
+      "title": "Refatoração e uma vida saudável para o desenvolvedor e para a aplicação",
+      "details": "Todo o desenvolvedor já deve ter ouvido falar a palavra refatoração, mas em que isso consiste ou melhor, como isso pode gerar valor para o produto e para o desenvolvedor?\nCostumo pensar que um bom código é aquele que facilmente pode ser modificado adicionando ou removendo coisas, mas como refinar uma base de código ao longo de anos e ainda assim manter a clareza de seu comportamento para os desenvolvedores, uma das resposta é através da refatoração. É comum com a correria do dia a dia escrevermos código pontual para um problema, mesmo que este não tenha a melhor estética ou não esteja no lugar mais adequado, fato é, este código deve em algum momento ser refatorado, mas como eu identifico isso em uma base de código? Já ouviu falar em ‘bad smells’ ou em alguns nomes tais como ‘long method’, ‘large class’ ou ‘duplicated code’, estes são apenas alguns indicativos de que este código deve ser refatorado, mas podem existir muitos outros.\nEntendido isso como devo refatorar ou o que devo fazer? A proposta dessa talk é abordar um problema que todos os desenvolvedores enfrentam que é lidar com código quase sempre complexo, serão apresentados alguns problemas de design de código que podem motivar a refatoração, a importância de testes no processo de refatoração e algumas técnicas de refatoração que podem ser aplicadas ao seu código.\nEm resumo será revisitada a definição de refatoração, o uso e seu valor para o processo de desenvolvimento e manutenibilidade de um software.",
       "speaker": {
-        "name": "Mariana Lopes",
-        "company": "Descomplica",
-        "photo": "assets/img/2018_pocket_mariana.jpg",
+        "name": "Eduardo Cesar",
+        "company": "ZarpSystem",
+        "photo": "assets/img/2018_pocket_eduardo.jpeg",
         "priority": 2,
-        "bio": "Mariana é Data Scientist na Descomplica ,mestre em Ciência da Computação na área de Inteligência Artificial, pela Universidade Federal de São Carlos (UFSCar) e bacharel em Ciência da Computação pela mesma instituição. Atua como Data Scientist no mercado desde 2015 e desde 2011 trabalha com Machine Learning, tendo desenvolvido seus trabalhos de conclusão de curso e mestrado nesta área."
+        "bio": "Atuo com desenvolvimento de aplicações web, onde me preocupo em compreender e melhorar todas as etapas que cercam um projeto de software, compartilhando, incentivando, e orientando no aprendizado de métodos ágeis e boas práticas de engenharia de software moderna."
       }
     },
     {
@@ -65,7 +65,15 @@
     },
     {
       "time": "14:00 - 14:50",
-      "title": "A ser definido"
+      "title": "Um Overview de Data Science",
+      "details": "Nesta palestra pretendo falar um pouco sobre data science segundo a minha experiência, os projetos da área nos quais trabalhei e pequenos exemplos de código python para realizar tarefas comuns aos projetos de Data Science, como visualização de dados e treinamento de modelos preditivos.",
+      "speaker": {
+        "name": "Mariana Lopes",
+        "enterprise": "Descomplica",
+        "photo": "assets/img/2018_pocket_mariana.jpg",
+        "priority": 4,
+        "bio": "Mariana é Data Scientist na Descomplica ,mestre em Ciência da Computação na área de Inteligência Artificial, pela Universidade Federal de São Carlos (UFSCar) e bacharel em Ciência da Computação pela mesma instituição. Atua como Data Scientist no mercado desde 2015 e desde 2011 trabalha com Machine Learning, tendo desenvolvido seus trabalhos de conclusão de curso e mestrado nesta área."
+      }
     },
     {
       "time": "14:50 - 15:40",
