@@ -57,7 +57,15 @@
     },
     {
       "time": "11:00 - 11:50",
-      "title": "A ser definido"
+      "title": "Desmistificando a plataforma de stream (Microserviços, Kafka, Avro, Schema Registry)",
+      "details": "Nesta talk será aborto sobre um dos maiores desafios no mundo da tecnologia que é a produção, processamento e o consumo de um grande volume de dados em tempo real.\n\nA proposta é responder questões como: Resolver a produção, processamento e o consumo de dados de uma maneira assincrona; Garantir a consistência de dados; Aplicar a solução desse problema no mundo de microserviços, IOT, etc; Mostrar um exemplo de implementação;",
+      "speaker": {
+        "name": "Daniel Hatanaka",
+        "company": "Invillia",
+        "photo": "assets/img/2018_pocket_daniel.jpeg",
+        "priority": 3,
+        "bio": ""
+      }
     },
     {
       "time": "11:50 - 14:00",
