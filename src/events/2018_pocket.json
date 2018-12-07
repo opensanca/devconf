@@ -118,10 +118,7 @@
   ],
   "sponsors": {
     "diamond": [
-    ],
-    "gold": [
-    ],
-    "bronze": [
+      { "name": "Monitora", "link": "http://monitoratec.com.br/", "logo": "/assets/img/logos/monitora.png"}
     ]
   },
   "partners": [
