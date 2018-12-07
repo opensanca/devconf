@@ -101,7 +101,15 @@
     },
     {
       "time": "16:00 - 16:50",
-      "title": "A ser definido"
+      "title": "Programando testes funcionais com Python + Selenium",
+      "details": "Overview de ferramentas, modelagem, processos, demonstração da criação a execução dos testes com python, behave, selenium e o que mais der tempo :)",
+      "speaker": {
+        "name": "Leticia Rostirola",
+        "company": "Arquivei",
+        "photo": "assets/img/2018_pocket_leticia.jpg",
+        "priority": 6,
+        "bio": "Bacharel em Ciencias de Computação pela USP São Carlos. Trabalha a mais de 5 anos na área de qualidade de Software e atualmente é líder do time de QA na Arquivei. Apaixonada por comunidades, atua em diversos grupos e eventos da cidade."
+      }
     },
     {
       "time": "16:50 - 17:30",
