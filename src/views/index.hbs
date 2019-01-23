@@ -29,6 +29,13 @@
 
     {{#if schedule }}
         {{> section/schedule }}
+    {{else}}
+      <section class="schedule" id="missing-schedule">
+          <div class="wrapper">
+              <h2 class="section-title">Programação</h2>
+              <p>Em breve a programação</p>
+          </div>
+      </section>
     {{/if}}
 
     {{> section/sponsor }}
