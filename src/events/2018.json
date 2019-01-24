@@ -14,6 +14,12 @@
       "message": "Ingressos esgotados. Ano que vem tem mais!"
     }
   },
+  "pastEditions": [
+    {
+      "title": "DevConf 2017",
+      "link": "http://2017.devconf.com.br/"
+    }
+  ],
   "sympla": {
     "id":"sympla-widget-233687",
     "script":"https://www.sympla.com.br/js/sympla.widget-pt.js/233687"
