@@ -1,0 +1,17 @@
+<li class="nav__item">
+    <span class="nav__link">
+        Edições anteriores
+        <img class="nav__item-drop" src="assets/img/arrow-dropdown--dark.svg" alt="your ticket">
+    </span>
+    <nav class="dropdown">
+        <ul class="dropdown__list">
+          {{#each pastEditions}}
+            <li class="dropdown__item">
+              <a href="{{ link }}" target="_blank"  class="nav__link dropdown__link">
+                {{ title }}
+              </a>
+            </li>
+          {{/each}}
+        </ul>
+    </nav>
+</li>

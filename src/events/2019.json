@@ -18,6 +18,12 @@
     "id":"sympla-widget-282061",
     "script": "https://www.sympla.com.br/js/sympla.widget-pt.js/282061"
   },
+  "pastEditions": [
+    {
+      "title": "DevConf 2018",
+      "link": "http://2018.devconf.com.br/"
+    }
+  ],
   "schedule": [
   ]
 }
