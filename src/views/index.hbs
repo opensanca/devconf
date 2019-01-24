@@ -23,6 +23,10 @@
     {{> section/hero }}
     {{> section/about }}
 
+    {{#if albumLink }}
+      {{> section/eventPhotos }}
+    {{/if}}
+
     {{#if speakers }}
         {{> section/speaker }}
     {{/if}}
