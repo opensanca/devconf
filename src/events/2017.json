@@ -19,6 +19,7 @@
         },{
             "time": "09:00 - 10:00",
             "title": "Escaping from the framework, guided by Clean Architecture",
+            "record": "https://www.youtube.com/watch?v=FjXPwoW4sRw&t=0s&index=3&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/sdGJ7g",
             "details": "Nessa palestra, nós vamos discutir causas e consequências do acoplamento de uma aplicação a frameworks / ferramentas, e como podemos \"descolar\" nosso sistema desses detalhes de implementação através de arquitetura de software.<br/> Arquitetura limpa - Clean Architecture - é um nome proposto pelo mito Uncle Bob Martin para descrever um estilo de projetar sistemas de maneira que o centro esteja naquilo que mais importa : aquilo que o software deve fazer - trazendo como benefícios manutenabilidade, extensibilidade, testabilidade e principalmente, independência em relação a peças que eventualmente podem ser substituídas.",
             "speaker": {
@@ -36,6 +37,7 @@
         },{
             "time": "10:00 - 10:45",
             "title": "Docker para desenvolvedores",
+            "record": "https://www.youtube.com/watch?v=sTVSh_kH99U&t=0s&index=4&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/gbGsnA",
             "details": "Porque todos os dev's deveriam utilizar Docker?<br/> Qual a diferença entre Containers (Docker) e Virtualização?<br/> Essas e outras questões sobre Docker, principalmente com foco no desenvolvedor serão abordadas.",
             "speaker": {
@@ -55,6 +57,7 @@
         },{
             "time": "11:00 - 12:00",
             "title": "Apps Mobile híbridas com Ionic 3",
+            "record": "https://www.youtube.com/watch?v=f81SUi91fu0&t=0s&index=6&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/MiQlwb",
             "details": "Ionic 3 é um framework open source para desenvolvimento de aplicativos mobile híbrido, onde se pode desenvolver o aplicativo usando HTML/CSS e JavaScript, fazer acesso nativo usando essas tecnologias e compilar o app para diferentes plataformas como iOS, Android e Windows Phone e publicá-lo nas respectivas app stores.<br/> O Ionic 3 é baseado em frameworks também open source e populares no mercado: Phonegap/Cordova, Angular e Sass (CSS).<br/>        Vamos aprender como criar um app em alguns minutos usando os principais conceitos do Angular como Módulos, Components, Templates, Diretivas e Serviços + RxJS Observables.",
             "speaker": {
@@ -75,6 +78,7 @@
         },{
             "time": "14:00 - 15:00",
             "title": "Porque investir em programação funcional",
+            "record": "https://www.youtube.com/watch?v=PqjQZWsbmrU&t=0s&index=9&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/VNZMBo",
             "details": "O Objetivo desta palestra é apresentar a programação funcional em elixir e porque deve investir.",
             "speaker": {
@@ -87,6 +91,7 @@
         },{
             "time": "15:00 - 16:00",
             "title": "Evolução do JavaScript",
+            "record": "https://www.youtube.com/watch?v=cw_Eo6fADdA&t=0s&index=5&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/bm6VYt",
             "details": "Atualmente estamos cada dia mais conectado a aplicações dinâmicas e interativas e tudo isso graças a evolução da internet que tem sido muito intesa.<br/>  O Javascript tem sido uma linguagem fundamental para essa evolução e a cada dia está mais presente em nossas vidas, queira ou não queira.<br/>        Essa palestra abordará toda evolução do Javascript desde o DHTML até os dias atuais onde temos Javascript no servidor, mostrando assim todo o seu poder atuamente e como será o seu futuro.",
             "speaker": {
@@ -106,6 +111,7 @@
         },{
             "time": "16:30 - 17:30",
             "title": "Microserviços o mal do século XXI na criação de empresas",
+            "record": "https://www.youtube.com/watch?v=poCyTwHOirw&t=0s&index=7&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/U0Cp0v",
             "details": "Palestra irá apresentar o por que não se deve iniciar a criação de um sistema com microserviços, quando se está iniciando uma empresa. Hoje em dia essa arquitetura é altamente utilizada mas sem haver a necessidade com isso muitas empresas acabam quebrando sem ter o seu produto lançado.",
             "speaker": {
@@ -123,6 +129,7 @@
         },{
             "time": "17:30 - 18:30",
             "title": "Gerenciando o roadmap do seu produto com MVP Canvas",
+            "record": "https://www.youtube.com/watch?v=QagLGev0swE&t=0s&index=8&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/mnuwY2",
             "details": "Nesta palestra vamos entender como mapear as features baseadas na jornada do usuário,  de forma a lançar um produto que seja aderente exatamente ao que o usuário necessita para ter feedback baseado na experiência real do usuário.",
             "speaker": {
@@ -138,7 +145,8 @@
             }
         },{
             "time": "18:30 - 19:30",
-            "title": "Gerenciando o roadmap do seu produto com MVP Canvas",
+            "title": "Separando uma aplicação monolítica",
+            "record": "https://www.youtube.com/watch?v=zITW78O70AA&t=1s&index=2&list=PLqmkdHCKvSKsP72xn8_StGZ7zGsLXzeqY",
             "slides": "https://goo.gl/tkbWFB",
             "details": "Objetivo desta proposta é apresentar como estudo de caso o trabalho em andamento no CasaeCafe.com para separar uma aplicação monolítica. Estaremos vendo sobre Problemas de escalabilidade em aplicações monolíticas, quando separar o monolito e soluções de arquitetura, trocando a roda com o carro em movimento, como executar essa transição, principais dificuldades e resultados obtidos",
             "speaker": {
