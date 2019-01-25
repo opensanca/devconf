@@ -29,12 +29,19 @@
 
     {{#if speakers }}
         {{> section/speaker }}
+    {{else}}
+      <section class="speaker" id="speaker">
+          <div class="wrapper">
+              <h2 class="section-title">Palestrantes</h2>
+              <p>Em breve</p>
+          </div>
+      </section>
     {{/if}}
 
     {{#if schedule }}
         {{> section/schedule }}
     {{else}}
-      <section class="schedule" id="missing-schedule">
+      <section class="schedule" id="schedule">
           <div class="wrapper">
               <h2 class="section-title">Programação</h2>
               <p>Em breve a programação</p>
