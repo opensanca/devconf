@@ -30,5 +30,11 @@
   ],
   "schedule": [
   ],
-  "sponsors": {}
+  "sponsors": {
+    "gold": [
+      {
+        "name": "Exactaworks", "link": "https://www.exactaworks.com.br/", "logo": "/assets/img/logos/logo_exacta_works.png"
+      }
+    ]
+  }
 }
