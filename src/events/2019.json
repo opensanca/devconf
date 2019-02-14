@@ -29,6 +29,19 @@
     }
   ],
   "schedule": [
+    {
+      "speaker": {
+        "name": "Daniela Vieira",
+        "company": "C6 Bank",
+        "photo": "assets/img/2019_daniela_vieira.png",
+        "priority": 1,
+        "bio": "",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/danivieira" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/d-vieira/" }
+        ]
+      }
+    }
   ],
   "sponsors": {
     "gold": [
