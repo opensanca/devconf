@@ -41,6 +41,20 @@
           { "type": "linkedin", "url": "https://www.linkedin.com/in/d-vieira/" }
         ]
       }
+    },
+    {
+      "speaker": {
+        "name": "Graziella Bonizi",
+        "company": "Lambda3",
+        "photo": "assets/img/2019_graziella_bonizi.jpeg",
+        "priority": 2,
+        "bio": "",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/GraziBonizi" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/graziella-bonizi-b14835a0/" },
+          { "type": "github", "url": "https://github.com/grazibonizi" }
+        ]
+      }
     }
   ],
   "sponsors": {
