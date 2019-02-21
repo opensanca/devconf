@@ -63,5 +63,9 @@
         "name": "Exactaworks", "link": "https://www.exactaworks.com.br/", "logo": "/assets/img/logos/logo_exacta_works.png"
       }
     ]
-  }
+  },
+  "partners": [
+    { "name": "Fatec Taquaritinga", "link": "http://201.55.32.21:8001/", "logo": "/assets/img/logos/logo-fatec-tq.svg" },
+    { "name": "Fatec DevDay", "link": "https://fatecdevday.com.br/", "logo": "/assets/img/logos/logo-devday.svg" }
+  ]
 }
