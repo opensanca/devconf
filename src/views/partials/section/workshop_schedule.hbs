@@ -1,0 +1,26 @@
+<section class="workshop_schedule" id="workshop_schedule">
+    <div class="wrapper">
+        <h2 class="section-title">Workshops - {{ workshop_schedule.date }} </h2>
+
+        <p>Se cadastre <a href="{{ workshop_schedule.registration_url }}" target="_blank">aqui</a></p>
+
+        <br>
+
+        <ul class="schedule-items">
+            {{#each workshop_schedule.schedules}}
+                <li>
+                    <h2>
+                        {{ title }}
+                    </h2>
+                    <label for="schedule-item-{{@index}}" class="see-details-link"> {{time}}
+                        <p><a target="_blank" href="{{ place_url }}">{{place}}</a></p>
+                        <p><a target="_blank" href="{{ instructor_linkedin }}">{{ instructor }}</a></p>
+                        <p class="workshop_details">
+                            {{{ details }}}
+                        </p>
+                    </label>
+                </li>
+            {{/each}}
+        </ul>
+    </div>
+</section>

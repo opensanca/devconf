@@ -18,6 +18,28 @@
     "id":"sympla-widget-282061",
     "script": "https://www.sympla.com.br/js/sympla.widget-pt.js/282061"
   },
+  "workshop_schedule": {
+    "date": "Sexta - 03/05 - 19:00 ~ 22:00",
+    "registration_url": "https://goo.gl/forms/ZvfmJX9taDoV0hC42",
+    "schedules": [
+      {
+        "title": "Introdução a Análise de Dados",
+        "place": "Onovolab",
+        "place_url": "https://goo.gl/maps/5CyTswR776C2",
+        "details": "Neste workshop você vai explorar, de maneira guiada, o básico de análise de dados usando uma das stacks mais conceituadas neste meio: Python, Pandas, SciKit Learn, Jupyter e Matplotlib.<br/>Você aprenderá a trabalhar dados brutos (criando assim uma plataforma para análise desses dados), extrair informações usando estatística simples e também com mecanismos de inteligência artificial/aprendizado de máquina. Por fim, jogará os dados obtidos em gráficos para uma apresentação mais agradável.",
+        "instructor": "Samuel Grigolato",
+        "instructor_linkedin": "https://www.linkedin.com/in/samuel-grigolato/"
+      },
+      {
+        "title": "A ser definido",
+        "place": "Monitora",
+        "place_url": "https://goo.gl/maps/UoRqZq24Aen",
+        "details": "--",
+        "instructor": "A ser definido",
+        "instructor_linkedin": "#"
+      }
+    ]
+  },
   "pastEditions": [
     {
       "title": "DevConf 2018",

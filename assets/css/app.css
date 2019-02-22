@@ -1459,12 +1459,16 @@ float: left;
 
 .schedule .see-details,
 .schedule .details {
-  display: none;
+  /* display: none; */
 }
 
 .schedule .see-details:checked + .details {
   display: block;
   padding-top: 10px;
+}
+
+.workshop_schedule {
+  margin-top: -5rem;
 }
 
 /*** uncss> filename: http://localhost:8080/assets/css/about.css ***/
@@ -1526,5 +1530,5 @@ float: left;
 }
 
 .text-capitalize{
-  text-transform:capitalize;  
+  text-transform:capitalize;
 }
