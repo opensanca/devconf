@@ -88,6 +88,21 @@
   },
   "partners": [
     { "name": "Fatec Taquaritinga", "link": "http://201.55.32.21:8001/", "logo": "/assets/img/logos/logo-fatec-tq.svg" },
-    { "name": "Fatec DevDay", "link": "https://fatecdevday.com.br/", "logo": "/assets/img/logos/logo-devday.svg" }
+    { "name": "Fatec DevDay", "link": "https://fatecdevday.com.br/", "logo": "/assets/img/logos/logo-devday.svg" },
+    {
+      "name": "Alura",
+      "link": "http://www.alura.com.br/",
+      "logo": "/assets/img/logos/alura.png"
+    },
+    {
+      "name": "Egghead",
+      "link": "http://www.egghead.io/",
+      "logo": "/assets/img/logos/egghead.png"
+    },
+    {
+      "name": "Jetbrains",
+      "link": "https://www.jetbrains.com/",
+      "logo": "/assets/img/logos/logo-jetbrains.png"
+    }
   ]
 }
