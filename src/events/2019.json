@@ -31,12 +31,12 @@
         "instructor_linkedin": "https://www.linkedin.com/in/samuel-grigolato/"
       },
       {
-        "title": "A ser definido",
+        "title": "Entendendo o Docker: Aprenda a falar Baleiês",
         "place": "Monitora",
         "place_url": "https://goo.gl/maps/UoRqZq24Aen",
-        "details": "--",
-        "instructor": "A ser definido",
-        "instructor_linkedin": "#"
+        "details": "Neste workshop vamos aprender os conceitos fundamentais de docker, diferenças entre máquina virtual e containers, o sistemas de layers do docker, criação de imagens e execução de containers com uma aplicação real.",
+        "instructor": "Rafael Girolineto",
+        "instructor_linkedin": "https://www.linkedin.com/in/girolineto/"
       }
     ]
   },
