@@ -70,11 +70,23 @@
         "company": "Lambda3",
         "photo": "assets/img/2019_graziella_bonizi.jpeg",
         "priority": 2,
-        "bio": "",
+        "bio": "Coordeno a trilha de Arquitetura .Net no The Developers Conference, compartilho código no GitHub, escrevo no Medium e no Blog da Lambda3, e participo de Meetups e PodCasts normalmente sobre DevOps, Azure, .Net, Docker/Kubernetes e DDD.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/GraziBonizi" },
           { "type": "linkedin", "url": "https://www.linkedin.com/in/graziella-bonizi-b14835a0/" },
           { "type": "github", "url": "https://github.com/grazibonizi" }
+        ]
+      }
+    },
+    {
+      "speaker": {
+        "name": "Paula Santana",
+        "company": "Itaú Unibanco",
+        "photo": "assets/img/2019_paula.jpg",
+        "priority": 3,
+        "bio": "Atua com tecnologia desde 2008, onde começou como professora na Microlins e Microcamp,  é formada em técnico de informatica para desenvolvimento de software pelo Centrol Paula Souza, fez Tecnólogo em Gestão Logística na UNIBR e começou a atuar como desenvolvedora Java em 2014, desde o ano passado 2018 esta atuando como arquiteta de soluções. É bem ativa nos grupos que promovem maior representatividade de minorias na tecnologia, começou uma comunidade de Agile no litoral de SP ( Caiçara Ágil) e embarcou em mais comunidades, ajudando no Baixada Nerd e no Devs JavaGirl, tem como lema profissional o compartilhamento de conhecimento.",
+        "social": [
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/paula-macedo-santana-dev/" }
         ]
       }
     }
