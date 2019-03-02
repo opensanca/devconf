@@ -11,7 +11,8 @@
     "address": "R. Precide São Martim, 126 - Jardim Santa Clara, Araraquara - SP, 14811-380",
     "sponsor_link": "documento_de_patrocinio_devconf_2018.pdf",
     "tickets": {
-      "available": true
+      "available": false,
+      "message": "Ingressos esgotados. Ano que vem tem mais!"
     }
   },
   "sympla": {
