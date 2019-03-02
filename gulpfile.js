@@ -1,8 +1,9 @@
 'use strict';
 
 var gulp = require( 'gulp' );
-var year = require('optimist').argv.year || process.env.YEAR;
-var eventFile = './src/events/' + year + '.json';
+let currentDate = new Date();
+currentDate = currentDate.getFullYear();
+var eventFile = `./src/events/${currentDate}.json`;
 var connect = require( 'gulp-connect' );
 var concat = require( 'gulp-concat' );
 var nano = require('gulp-cssnano' );
@@ -25,7 +26,7 @@ function getEventData() {
                         .sortBy('priority')
                         .value();
 
-  if (!eventData.schedule.every(function (s) { return s.time })) {
+  if (!eventData.schedule.every(e=>{return e.time})) {
     delete eventData.schedule;
   }
 
@@ -33,11 +34,11 @@ function getEventData() {
 }
 
 
-gulp.task( 'hbs', function () {
+gulp.task( 'hbs', e=>{
   return gulp.src('src/views/index.hbs')
             .pipe(handlebars(getEventData(), options))
             .pipe(rename('index.html'))
-            .pipe(gulp.dest('./'));
+            .pipe(gulp.dest('.'));
 });
 
 gulp.task( 'css', function () {
