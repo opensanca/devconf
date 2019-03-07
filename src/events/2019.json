@@ -105,6 +105,9 @@
     }
   ],
   "sponsors": {
+    "diamond": [
+      { "name": "Invillia", "link": "https://invillia.com", "logo": "/assets/img/logos/invillia.png" }
+    ],
     "gold": [
       { "name": "Exactaworks", "link": "https://www.exactaworks.com.br/", "logo": "/assets/img/logos/logo_exacta_works.png" },
       { "name": "Toptal", "link": "https://www.toptal.com/", "logo": "/assets/img/logos/toptal.svg"}
