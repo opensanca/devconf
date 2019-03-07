@@ -89,6 +89,19 @@
           { "type": "linkedin", "url": "https://www.linkedin.com/in/paula-macedo-santana-dev/" }
         ]
       }
+    },
+    {
+      "speaker": {
+        "name": "Daniel Requena",
+        "company": "Mandic/Rivendel",
+        "photo": "assets/img/2019_daniel_requena.jpeg",
+        "priority": 4,
+        "bio": "Sysadmin há 13 anos, Devopeiro há 3 anos, Barista há 2 anos, Mestre em Engenharia da Computação, Bacharel em Ciência da Computação. Atualmente Techlead na Mandic+Rivendel. Trabalhando com foco em IAC, Kubernetes, Micro-Serviços e arquiteturas escaláveis.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/daniel_requena" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/danielrequena/" }
+        ]
+      }
     }
   ],
   "sponsors": {
