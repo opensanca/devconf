@@ -106,7 +106,8 @@
   ],
   "sponsors": {
     "diamond": [
-      { "name": "Invillia", "link": "https://invillia.com", "logo": "/assets/img/logos/invillia.png" }
+      { "name": "Invillia", "link": "https://invillia.com", "logo": "/assets/img/logos/invillia.png" },
+      { "name": "Luz Soluções Financeiras", "link": "https://www.luz-ef.com", "logo": "/assets/img/logos/luz.png" }
     ],
     "gold": [
       { "name": "Exactaworks", "link": "https://www.exactaworks.com.br/", "logo": "/assets/img/logos/logo_exacta_works.png" },
