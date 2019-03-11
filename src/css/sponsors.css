@@ -24,6 +24,10 @@
   width: 100px;
 }
 
+.sponsor-category.premium h3 {
+  border-color: #b9f2ff;
+}
+
 .sponsor-category.diamond h3 {
   border-color: #b9f2ff;
 }
@@ -66,6 +70,10 @@
 }
 
 @media (min-width: 980px) {
+  .sponsor-category.premium img {
+    width: 360px;
+  }
+
   .sponsor-category.diamond img {
     width: 180px;
   }

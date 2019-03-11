@@ -105,6 +105,9 @@
     }
   ],
   "sponsors": {
+    "premium": [
+      { "name": "Arquivei", "link": "https://arquivei.com.br/", "logo": "/assets/img/logos/arquivei.png" }
+    ],
     "diamond": [
       { "name": "Invillia", "link": "https://invillia.com", "logo": "/assets/img/logos/invillia.png" },
       { "name": "Luz Soluções Financeiras", "link": "https://www.luz-ef.com", "logo": "/assets/img/logos/luz.png" }
