@@ -1016,6 +1016,10 @@ i {
     padding: 180px 0 0
 }
 
+.hero__logo {
+  width: 41%
+}
+
 @media only screen and (max-width: 840px) {
     .hero .wrapper {
         padding:120px 0 0
