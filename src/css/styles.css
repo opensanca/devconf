@@ -16,10 +16,10 @@ a {
 }
 
 .mobile-devconf {
-  width: 90px;
-  height: inherit;
-  top: 8px;
+  width: 21px;
+  height: 20px;
   position: relative;
+  margin-right: 5rem;
 }
 
 .mobile-text {
@@ -290,9 +290,8 @@ i {
 }
 
 .logo__image {
-    width: 125px;
-    height: 80px;
-    margin-top: -20px;
+    height: 52px;
+    margin-right: 10px;
     display: block
 }
 
@@ -1104,6 +1103,11 @@ i {
     position: relative;
     z-index: -1
 }
+
+.hero__logo {
+  width: 41%
+}
+
 
 .player {
     background: #000;
