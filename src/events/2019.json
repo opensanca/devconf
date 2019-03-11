@@ -114,7 +114,7 @@
     ],
     "gold": [
       { "name": "Exactaworks", "link": "https://www.exactaworks.com.br/", "logo": "/assets/img/logos/logo_exacta_works.png" },
-      { "name": "Toptal", "link": "https://www.toptal.com/", "logo": "/assets/img/logos/toptal.svg"},
+      { "name": "Toptal", "link": "https://www.toptal.com/", "logo": "/assets/img/logos/toptal.png"},
       { "name": "iClinic", "link": "https://iclinic.com.br/", "logo": "/assets/img/logos/iclinc.png"}
     ],
     "bronze": [
