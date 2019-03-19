@@ -138,6 +138,11 @@
       "name": "Jetbrains",
       "link": "https://www.jetbrains.com/",
       "logo": "/assets/img/logos/logo-jetbrains.png"
+    },
+    {
+      "name": "Linuxtips",
+      "link": "https://www.linuxtips.com.br/",
+      "logo": "/assets/img/logos/linuxtips.png"
     }
   ]
 }
