@@ -145,6 +145,11 @@ button:-moz-focusring,[type="button"]:-moz-focusring {
     font: inherit
 }
 
+.btn-vr {
+  background: #4a0864 !important;
+  color: #fff !important;
+}
+
 .btn-success {
   background: #4a0864;
   color: #fff;
@@ -244,7 +249,7 @@ i {
 }
 
 .button__tertiary:hover {
-    background: #18a56d;
+    background: #951AA1;
     color: #fff;
 }
 
@@ -932,7 +937,7 @@ i {
 
 @media only screen and (max-width: 840px) {
     .hero {
-        padding-bottom:0
+        padding-bottom:0;
     }
 }
 
@@ -958,7 +963,7 @@ i {
 
 @media only screen and (max-width: 390px) {
     .hero__gradient,.hero__container {
-        height:440px
+        height:340px
     }
 }
 
@@ -971,6 +976,13 @@ i {
     left: 0;
     right: 0;
     bottom: 0
+}
+
+@media only screen and (max-width: 840px) {
+    .hero__video {
+        background:url('../img/coding-bg.jpg') center;
+        background-size: cover;
+    }
 }
 
 .hero__gradient {
@@ -1127,8 +1139,8 @@ i {
 
 @media only screen and (max-width: 720px) {
     .player {
-        background: -webkit-linear-gradient(30deg,rgba(74, 8, 100, 0.8)  30%, rgba(149, 26, 161, 0.8) 70%);
-        background:  linear-gradient(30deg,rgba(74, 8, 100, 0.8)  30%, rgba(149, 26, 161, 0.8) 70%);
+        background:url('../img/coding-bg.jpg') center;
+        background-size: cover;
     }
 }
 
