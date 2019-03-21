@@ -150,6 +150,12 @@ button:-moz-focusring,[type="button"]:-moz-focusring {
   color: #fff !important;
 }
 
+.btn-primary {
+    background: #4a0864;
+    color: #fff;
+    border-color: #4a0864;
+}
+
 .btn-success {
   background: #4a0864;
   color: #fff;
