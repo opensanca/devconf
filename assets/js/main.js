@@ -371,6 +371,4 @@ jQuery(document).ready(function($) {
   //insert the zoom div on the top left of the map
 	map.controls[google.maps.ControlPosition.LEFT_TOP].push(zoomControlDiv);
 	
-	//fix autoplay problem
-	document.querySelector('.player video')[0].play();
 });
