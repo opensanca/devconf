@@ -1128,7 +1128,6 @@ i {
     .player {
         background: -webkit-linear-gradient(30deg,rgba(74, 8, 100, 1)  50%, rgba(138, 34, 126, 1) 100%);
         background: linear-gradient(30deg,rgba(74, 8, 100, 1)  50%, rgba(138, 34, 126, 1) 100%);
-        background-image: url("../img/typing.svg");
     }
 }
 
