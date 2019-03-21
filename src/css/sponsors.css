@@ -1,6 +1,4 @@
 .sponsors {
-  background: rgb(241, 196, 15);
-  color: #1b1917;
 }
 
 
@@ -15,33 +13,13 @@
 .sponsor-category h3 {
   margin-bottom: 20px;
   font-weight: bold;
-  background-color: #f3f3f3;
+  background-color: #f2f2f2;
   padding: 15px;
   border-bottom: 2px solid;
 }
 
 .sponsor-category img {
   width: 100px;
-}
-
-.sponsor-category.premium h3 {
-  border-color: #b9f2ff;
-}
-
-.sponsor-category.diamond h3 {
-  border-color: #b9f2ff;
-}
-
-.sponsor-category.gold h3 {
-  border-color: #d4af37;
-}
-
-.sponsor-category.silver h3 {
-  border-color: #c0c0c0;
-}
-
-.sponsor-category.bronze h3 {
-  border-color: #cd7f32;
 }
 
 .brands__logos {

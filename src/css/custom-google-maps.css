@@ -24,7 +24,7 @@
   bottom: 0;
   left: 0;
   padding: 1em 1em;
-  background-color: rgba(211, 104, 104, 0.9);
+  background-color: rgba(74, 8, 100, 0.9);
   color: white;
   font-size: 1em !important;
 }
@@ -41,7 +41,7 @@
   width: 32px;
   cursor: pointer;
   margin-left: 10px;
-  background-color: rgba(211, 104, 104, 0.9);
+  background-color: rgba(74, 8, 100, 0.9);
   background-repeat: no-repeat;
   background-size: 32px 64px;
   background-image: url("../img/cd-icon-controller.svg");

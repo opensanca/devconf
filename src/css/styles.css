@@ -6,12 +6,13 @@
 body {
     font: 400 16px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     -webkit-font-smoothing: antialiased;
-    color: #545e6f;
+    color: #434343;
     background: #f9fbfd;
     overflow-x: hidden;
 }
 
 a {
+    color: #4a0864;
     text-decoration: none;
 }
 
@@ -30,7 +31,7 @@ a {
 }
 
 a:focus, a:hover {
-    color: #6594fb;
+    color: #4a0864;
     text-decoration: none;
 }
 
@@ -145,7 +146,7 @@ button:-moz-focusring,[type="button"]:-moz-focusring {
 }
 
 .btn-success {
-  background: #1bbb7c;
+  background: #4a0864;
   color: #fff;
 }
 
@@ -226,7 +227,7 @@ i {
 
 .button__tertiary {
     letter-spacing: -0.5px;
-    background: #1bbb7c;
+    background: #4a0864;
     padding: 15px 35px;
     color: #fff;
     margin: 35px 0;
@@ -897,7 +898,7 @@ i {
     /*margin: 0 0 0 20px;
     padding: 0 0 0 35px;*/
     font-size: .7em;
-    color: #7f95b5;
+    color: #4a0864;
     font-weight: 500;
 }
 
@@ -1126,8 +1127,8 @@ i {
 
 @media only screen and (max-width: 720px) {
     .player {
-        background: -webkit-linear-gradient(30deg,rgba(74, 8, 100, 1)  50%, rgba(138, 34, 126, 1) 100%);
-        background: linear-gradient(30deg,rgba(74, 8, 100, 1)  50%, rgba(138, 34, 126, 1) 100%);
+        background: -webkit-linear-gradient(30deg,rgba(74, 8, 100, 0.8)  30%, rgba(149, 26, 161, 0.8) 70%);
+        background:  linear-gradient(30deg,rgba(74, 8, 100, 0.8)  30%, rgba(149, 26, 161, 0.8) 70%);
     }
 }
 
@@ -1139,8 +1140,8 @@ i {
     width: 100%;
     height: 100%;
     opacity: 1;
-    background: -webkit-linear-gradient(30deg,rgba(74, 8, 100, 0.8)  50%, rgba(138, 34, 126, 0.8) 100%);
-    background: linear-gradient(30deg,rgba(74, 8, 100, 0.8)  50%, rgba(138, 34, 126, 0.8) 100%);
+    background: -webkit-linear-gradient(30deg,rgba(74, 8, 100, 0.8)  30%, rgba(149, 26, 161, 0.8) 70%);
+    background: linear-gradient(30deg,rgba(74, 8, 100, 0.8)  30%, rgba(149, 26, 161, 0.8) 70%);
 }
 
 .player video {
@@ -1168,6 +1169,8 @@ section {
 }
 
 .section-title {
+  color: #4a0864;
+  border-bottom:4px solid #4a0864;
   padding: 10px 0;
   margin-bottom: 25px;
 }

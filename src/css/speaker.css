@@ -1,15 +1,21 @@
 .speaker {
   /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left, #951AA1, #FC2AD6);
+  background: -webkit-linear-gradient(left, #951AA1, #4a0864);
   /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(right, #951AA1, #FC2AD6);
+  background: -o-linear-gradient(right, #951AA1, #4a0864);
   /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(right, #951AA1, #FC2AD6);
+  background: -moz-linear-gradient(right, #951AA1, #4a0864);
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to right, #951AA1, #FC2AD6);
+  background: linear-gradient(to right, #951AA1, #4a0864);
   /* Standard syntax */
   color: #fafafa;
 }
+
+.speaker .section-title {
+  color: #fff;
+  border-color: #fff;
+}
+
 
 
 .speaker__profile-about {
@@ -64,7 +70,7 @@
 }
 
 .speaker__profile-social a:hover {
-  color: #f1c40f;
+  color: #4a0864;
 }
 
 a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
@@ -145,7 +151,7 @@ float: left;
 
 .button__speaker-about {
     letter-spacing: -0.5px;
-    background: #1bbb7c;
+    background: #4a0864;
     padding: 15px 35px;
     color: #fff;
     margin: 140px 45px 0 45px;

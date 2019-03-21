@@ -160,7 +160,7 @@ jQuery(document).ready(function($) {
     : "assets/img/cd-icon-location.svg";
 
   //define the basic color of your map, plus a value for saturation and brightness
-  var main_color = "#2d313f",
+  var main_color = "#4a0864",
     saturation_value = -20,
     brightness_value = 5;
 
