@@ -53,10 +53,23 @@
   "schedule": [
     {
       "speaker": {
+        "name": "Daniel Requena",
+        "company": "Mandic/Rivendel",
+        "photo": "assets/img/2019_daniel_requena.jpeg",
+        "priority": 1,
+        "bio": "Sysadmin há 13 anos, Devopeiro há 3 anos, Barista há 2 anos, Mestre em Engenharia da Computação, Bacharel em Ciência da Computação. Atualmente Techlead na Mandic+Rivendel. Trabalhando com foco em IAC, Kubernetes, Micro-Serviços e arquiteturas escaláveis.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/daniel_requena" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/danielrequena/" }
+        ]
+      }
+    },
+    {
+      "speaker": {
         "name": "Daniela Vieira",
         "company": "C6 Bank",
         "photo": "assets/img/2019_daniela_vieira.png",
-        "priority": 1,
+        "priority": 2,
         "bio": "",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/danivieira" },
@@ -66,15 +79,15 @@
     },
     {
       "speaker": {
-        "name": "Mauricio Linhares",
-        "company": "Digital Ocean",
-        "photo": "assets/img/2019_mauricio_linhares.jpeg",
-        "priority": 2,
-        "bio": "",
+        "name": "Fábio Akita",
+        "company": "Codeminer42 & OmniTrade",
+        "photo": "assets/img/2019_fabio_akita.png",
+        "priority": 3,
+        "bio": "Fabio Akita é co-fundador da Codeminer 42, boutique de desenvolvimento de software trabalhando com clientes do Brasil e EUA desde 2011. Foi co-fundador e ex-organizador da Rubyconf Brasil de 2008 a 2016. Atualmente organiza a conferência The Conf, que vai pra 3a edição em 2019. Já realizou mais de 200 palestras em diversas cidades do Brasil, EUA, Europa e Ásia. Também é co-fundador da Omnitrade, corretora de criptomoedas. É influenciador em tecnologia, inicialmente com Ruby on Rails desde 2006 e hoje mantém canal no YouTube.",
         "social": [
-          { "type": "twitter", "url": "https://twitter.com/mauriciojr" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/mauriciolinhares/" },
-          { "type": "github", "url": "https://github.com/mauricio" }
+          { "type": "twitter", "url": "https://twitter.com/akitaonrails" },
+          { "type": "linkedin", "url": "http://www.linkedin.com/in/akitaonrails" },
+          { "type": "github", "url": "https://github.com/akitaonrails" }
         ]
       }
     },
@@ -83,7 +96,7 @@
         "name": "Graziella Bonizi",
         "company": "Lambda3",
         "photo": "assets/img/2019_graziella_bonizi.jpeg",
-        "priority": 3,
+        "priority": 4,
         "bio": "Coordeno a trilha de Arquitetura .Net no The Developers Conference, compartilho código no GitHub, escrevo no Medium e no Blog da Lambda3, e participo de Meetups e PodCasts normalmente sobre DevOps, Azure, .Net, Docker/Kubernetes e DDD.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/GraziBonizi" },
@@ -94,26 +107,27 @@
     },
     {
       "speaker": {
-        "name": "Paula Santana",
-        "company": "Itaú Unibanco",
-        "photo": "assets/img/2019_paula.jpg",
-        "priority": 4,
-        "bio": "Atua com tecnologia desde 2008, onde começou como professora na Microlins e Microcamp,  é formada em técnico de informatica para desenvolvimento de software pelo Centrol Paula Souza, fez Tecnólogo em Gestão Logística na UNIBR e começou a atuar como desenvolvedora Java em 2014, desde o ano passado 2018 esta atuando como arquiteta de soluções. É bem ativa nos grupos que promovem maior representatividade de minorias na tecnologia, começou uma comunidade de Agile no litoral de SP ( Caiçara Ágil) e embarcou em mais comunidades, ajudando no Baixada Nerd e no Devs JavaGirl, tem como lema profissional o compartilhamento de conhecimento.",
+        "name": "Mauricio Linhares",
+        "company": "Digital Ocean",
+        "photo": "assets/img/2019_mauricio_linhares.jpeg",
+        "priority": 5,
+        "bio": "",
         "social": [
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/paula-macedo-santana-dev/" }
+          { "type": "twitter", "url": "https://twitter.com/mauriciojr" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/mauriciolinhares/" },
+          { "type": "github", "url": "https://github.com/mauricio" }
         ]
       }
     },
     {
       "speaker": {
-        "name": "Daniel Requena",
-        "company": "Mandic/Rivendel",
-        "photo": "assets/img/2019_daniel_requena.jpeg",
-        "priority": 5,
-        "bio": "Sysadmin há 13 anos, Devopeiro há 3 anos, Barista há 2 anos, Mestre em Engenharia da Computação, Bacharel em Ciência da Computação. Atualmente Techlead na Mandic+Rivendel. Trabalhando com foco em IAC, Kubernetes, Micro-Serviços e arquiteturas escaláveis.",
+        "name": "Paula Santana",
+        "company": "Itaú Unibanco",
+        "photo": "assets/img/2019_paula.jpg",
+        "priority": 6,
+        "bio": "Atua com tecnologia desde 2008, onde começou como professora na Microlins e Microcamp,  é formada em técnico de informatica para desenvolvimento de software pelo Centrol Paula Souza, fez Tecnólogo em Gestão Logística na UNIBR e começou a atuar como desenvolvedora Java em 2014, desde o ano passado 2018 esta atuando como arquiteta de soluções. É bem ativa nos grupos que promovem maior representatividade de minorias na tecnologia, começou uma comunidade de Agile no litoral de SP ( Caiçara Ágil) e embarcou em mais comunidades, ajudando no Baixada Nerd e no Devs JavaGirl, tem como lema profissional o compartilhamento de conhecimento.",
         "social": [
-          { "type": "twitter", "url": "https://twitter.com/daniel_requena" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/danielrequena/" }
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/paula-macedo-santana-dev/" }
         ]
       }
     }
