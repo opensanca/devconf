@@ -18,6 +18,163 @@
     "id":"sympla-widget-282061",
     "script": "https://www.sympla.com.br/js/sympla.widget-pt.js/282061"
   },
+  "schedule": [
+    {
+      "time": "08:00 - 08:30",
+      "title": "Credenciamento"
+    },
+    {
+      "time": "08:30 - 09:00",
+      "title": "Abertura"
+    },
+    {
+      "time": "09:00 - 10:00",
+      "title": "A ser definida",
+      "details": "",
+      "speaker": {
+        "name": "Mauricio Linhares",
+        "company": "Digital Ocean",
+        "photo": "assets/img/2019_mauricio_linhares.jpeg",
+        "priority": 6,
+        "bio": "",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/mauriciojr" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/mauriciolinhares/" },
+          { "type": "github", "url": "https://github.com/mauricio" }
+        ]
+      }
+    },
+    {
+      "time": "10:00 - 10:40",
+      "title": "Como entregar um banco com qualidade",
+      "details": "Case de como o C6 Bank está fazendo para entregar software com qualidade.",
+      "speaker": {
+        "name": "Daniela Vieira",
+        "company": "C6 Bank",
+        "photo": "assets/img/2019_daniela_vieira.png",
+        "priority": 2,
+        "bio": "Formada em engenharia de computação, atua na área de tecnologia desde 2004. Trabalhou para empresas como UOL, Grupo Abril e Walmart.com. Co-fundadora do Test Girls. Apoia todo movimento que tenha como objetivo o protagonismo feminino. Atualmente trabalha como Head de Qualidade no C6 Bank.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/danivieira" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/d-vieira/" }
+        ]
+      }
+    },
+    {
+      "time": "10:40 - 11:00",
+      "title": "Coffee Break"
+    },    
+    {
+      "time": "11:00 - 11:40",
+      "title": "Canary Release com Kubernetes e Istio",
+      "details": "O Kubernetes suporta algumas técnicas de Deploy nativas,mas nenhuma delas dá o poder e abre tantas possibilidades como o Istio faz.Nessa talk falarei como fazer Canary Release utilizando Istio, entenderemos sua arquitetura e entraremos em tópicos como gerenciamento de tráfego, fault injection e mais.",
+      "speaker": {
+        "name": "Daniel Requena",
+        "company": "Mandic / Rivendel",
+        "photo": "assets/img/2019_daniel_requena.jpeg",
+        "priority": 1,
+        "bio": "Sysadmin há 13 anos, Devopeiro há 3 anos, Barista há 2 anos, Mestre em Engenharia da Computação, Bacharel em Ciência da Computação. Atualmente Techlead na Mandic+Rivendel. Trabalhando com foco em IAC, Kubernetes, Micro-Serviços e arquiteturas escaláveis.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/daniel_requena" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/danielrequena/" }
+        ]
+      }
+    },
+    {
+      "time": "11:45 - 12:30",
+      "title": "Desenvolvendo sistemas gigantes na internet com arquiteturas baseadas em eventos",
+      "speaker": {
+        "name": "Paula Santana",
+        "company": "Itaú Unibanco",
+        "photo": "assets/img/2019_paula.jpg",
+        "priority": 7,
+        "bio": "Atua com tecnologia desde 2008, onde começou como professora na Microlins e Microcamp,  é formada em técnico de informatica para desenvolvimento de software pelo Centrol Paula Souza, fez Tecnólogo em Gestão Logística na UNIBR e começou a atuar como desenvolvedora Java em 2014, desde o ano passado 2018 esta atuando como arquiteta de soluções. É bem ativa nos grupos que promovem maior representatividade de minorias na tecnologia, começou uma comunidade de Agile no litoral de SP ( Caiçara Ágil) e embarcou em mais comunidades, ajudando no Baixada Nerd e no Devs JavaGirl, tem como lema profissional o compartilhamento de conhecimento.",
+        "social": [
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/paula-macedo-santana-dev/" }
+        ]
+      }
+    },
+    {
+      "time": "12:30 - 13:30",
+      "title": "Almoço"
+    },  
+    {
+      "time": "13:30 - 14:10",
+      "title": "Integrando aplicações, o que temos nas fronteiras dos microservices",
+      "details": "A crescente adoção da prática de se construir aplicações utilizando microservices chama a atenção dos engenheiros e arquitetos de software sobre quais formas de integrações podem ser adotadas para cada tipo de serviço existente. Ao longo dessa talk serão apresentados padrões de integrações existentes no mercado,  apresentando o seu funcionamento, e como eles são úteis nas integrações entre serviços. Serão discutido estilos de integrações, baseados em RPC, apis REST, e comunicação em tempo real, desmistificando seus padrões e protocolos, procurando trazer um entendimento claro e objetivo sobre cada um deles.",
+      "speaker": {
+        "name": "Eduardo Cesar",
+        "company": "ZARP",
+        "photo": "assets/img/2019_eduardo_bolinha.png",
+        "priority": 3,
+        "bio": "Uma pessoa que gosta de compreender e superar todos os desafios enfrentados durante todo o ciclo de desenvolvimento de um software.",
+        "social": [
+          { "type": "github", "url": "https://github.com/Bolinha1" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/eduardo-cesar-oliveira/" }
+        ]
+      }
+    },        
+    {
+      "time": "14:15 - 14:55",
+      "title": "DDD & Microservices -> Do negócio à arquitetura",
+			"details": "O Domain Driven Design é um conjunto de princípios de construção de software baseado no profundo entendimento do negócio. Naturalmente, uma das áreas impactadas por esses princípios é a arquitetura. Em se tratando de Microsserviços, é ainda mais importante que a construção e organização dos serviços esteja alinhada com o negócio, para que se tenha o maior ganho de performance e eficiência na manutenção.\nNessa palestra discutiremos como modelar uma solução em Microsserviços utilizando conceitos do DDD.",
+      "speaker": {
+        "name": "Graziella Bonizi",
+        "company": "Lambda3",
+        "photo": "assets/img/2019_graziella_bonizi.jpeg",
+        "priority": 5,
+        "bio": "Coordeno a trilha de Arquitetura .Net no The Developers Conference, compartilho código no GitHub, escrevo no Medium e no Blog da Lambda3, e participo de Meetups e PodCasts normalmente sobre DevOps, Azure, .Net, Docker/Kubernetes e DDD.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/GraziBonizi" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/graziella-bonizi-b14835a0/" },
+          { "type": "github", "url": "https://github.com/grazibonizi" }
+        ]
+      }
+    },
+    {
+      "time": "15:00 - 15:40",
+      "title": "Observabilidade com o Elastic Stack",
+			"details": "Ao falarmos sobre observabilidade a reação mais comum é “O que é isso?”, mas também coisas como “Acabamos de lançar uma iniciativa de observabilidade mas ainda estamos descobrindo exatamente como fazer isso” e finalmente, algumas organizações já consideram observabilidade parte integrante de como projetam e constroem seus produtos e serviços. Dado que o termo ainda está ganhando força nessa palestra irei desmistificar o que é observabilidade para nós da Elastic, como nós entendemos isso e como utilizar o Stack com esse intuito.",
+      "speaker": {
+        "name": "Priscilla Parodi",
+        "company": "Elastic",
+        "photo": "assets/img/2019_priscilla.jpg",
+        "priority": 8,
+        "bio": "Começou em TI aos 11 anos de idade quando recebeu seu primeiro certificado na área e desde então nunca mudou de foco. Aos 17 anos iniciou o curso de Sistemas de Informação na USP e aos 18 anos foi contratada pela IBM como programadora, na empresa também atuou em gestão de projetos, pré vendas e advocacy de IBM Cloud por mais de 5 anos, sendo reconhecida nacional e internacionalmente pela mesma. Hoje é a voz e a representante da Elastic - a empresa por trás dos projetos populares de código aberto: Elasticsearch, Kibana, Logstash e Beats - para a América Latina.",
+        "social": [
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/priscillaparodi" }
+        ]
+      }
+    },
+    {
+      "time": "15:40 - 16:00",
+      "title": "Coffee Break"
+    },
+    {
+      "time": "16:00 - 17:00",
+      "title": "A ser definida",
+      "speaker": {
+        "name": "Fábio Akita",
+        "company": "Codeminer42 & OmniTrade",
+        "photo": "assets/img/2019_fabio_akita.png",
+        "priority": 4,
+        "bio": "Começou em TI aos 11 anos de idade quando recebeu seu primeiro certificado na área e desde então nunca mudou de foco. Aos 17 anos iniciou o curso de Sistemas de Informação na USP e aos 18 anos foi contratada pela IBM como programadora, na empresa também atuou em gestão de projetos, pré vendas e advocacy de IBM Cloud por mais de 5 anos, sendo reconhecida nacional e internacionalmente pela mesma. Hoje é a voz e a representante da Elastic - a empresa por trás dos projetos populares de código aberto: Elasticsearch, Kibana, Logstash e Beats - para a América Latina.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/akitaonrails" },
+          { "type": "linkedin", "url": "http://www.linkedin.com/in/akitaonrails" },
+          { "type": "github", "url": "https://github.com/akitaonrails" }
+        ]
+      }
+    },
+    {
+      "time": "17:00 - 17:30",
+      "title": "Encerramento"
+    },
+    {
+      "time": "17:30 - ∞",
+      "title": "Bora pro bar beber 🍻"
+    }
+  ],
   "workshop_schedule": {
     "date": "Sexta - 03/05 - 19:00 ~ 22:00",
     "registration_url": "https://goo.gl/forms/ZvfmJX9taDoV0hC42",
@@ -48,88 +205,6 @@
     {
       "title": "DevConf 2017",
       "link": "http://2017.devconf.com.br/"
-    }
-  ],
-  "schedule": [
-    {
-      "speaker": {
-        "name": "Daniel Requena",
-        "company": "Mandic/Rivendel",
-        "photo": "assets/img/2019_daniel_requena.jpeg",
-        "priority": 1,
-        "bio": "Sysadmin há 13 anos, Devopeiro há 3 anos, Barista há 2 anos, Mestre em Engenharia da Computação, Bacharel em Ciência da Computação. Atualmente Techlead na Mandic+Rivendel. Trabalhando com foco em IAC, Kubernetes, Micro-Serviços e arquiteturas escaláveis.",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/daniel_requena" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/danielrequena/" }
-        ]
-      }
-    },
-    {
-      "speaker": {
-        "name": "Daniela Vieira",
-        "company": "C6 Bank",
-        "photo": "assets/img/2019_daniela_vieira.png",
-        "priority": 2,
-        "bio": "",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/danivieira" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/d-vieira/" }
-        ]
-      }
-    },
-    {
-      "speaker": {
-        "name": "Fábio Akita",
-        "company": "Codeminer42 & OmniTrade",
-        "photo": "assets/img/2019_fabio_akita.png",
-        "priority": 3,
-        "bio": "Fabio Akita é co-fundador da Codeminer 42, boutique de desenvolvimento de software trabalhando com clientes do Brasil e EUA desde 2011. Foi co-fundador e ex-organizador da Rubyconf Brasil de 2008 a 2016. Atualmente organiza a conferência The Conf, que vai pra 3a edição em 2019. Já realizou mais de 200 palestras em diversas cidades do Brasil, EUA, Europa e Ásia. Também é co-fundador da Omnitrade, corretora de criptomoedas. É influenciador em tecnologia, inicialmente com Ruby on Rails desde 2006 e hoje mantém canal no YouTube.",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/akitaonrails" },
-          { "type": "linkedin", "url": "http://www.linkedin.com/in/akitaonrails" },
-          { "type": "github", "url": "https://github.com/akitaonrails" }
-        ]
-      }
-    },
-    {
-      "speaker": {
-        "name": "Graziella Bonizi",
-        "company": "Lambda3",
-        "photo": "assets/img/2019_graziella_bonizi.jpeg",
-        "priority": 4,
-        "bio": "Coordeno a trilha de Arquitetura .Net no The Developers Conference, compartilho código no GitHub, escrevo no Medium e no Blog da Lambda3, e participo de Meetups e PodCasts normalmente sobre DevOps, Azure, .Net, Docker/Kubernetes e DDD.",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/GraziBonizi" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/graziella-bonizi-b14835a0/" },
-          { "type": "github", "url": "https://github.com/grazibonizi" }
-        ]
-      }
-    },
-    {
-      "speaker": {
-        "name": "Mauricio Linhares",
-        "company": "Digital Ocean",
-        "photo": "assets/img/2019_mauricio_linhares.jpeg",
-        "priority": 5,
-        "bio": "",
-        "social": [
-          { "type": "twitter", "url": "https://twitter.com/mauriciojr" },
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/mauriciolinhares/" },
-          { "type": "github", "url": "https://github.com/mauricio" }
-        ]
-      }
-    },
-    {
-      "speaker": {
-        "name": "Paula Santana",
-        "company": "Itaú Unibanco",
-        "photo": "assets/img/2019_paula.jpg",
-        "priority": 6,
-        "bio": "Atua com tecnologia desde 2008, onde começou como professora na Microlins e Microcamp,  é formada em técnico de informatica para desenvolvimento de software pelo Centrol Paula Souza, fez Tecnólogo em Gestão Logística na UNIBR e começou a atuar como desenvolvedora Java em 2014, desde o ano passado 2018 esta atuando como arquiteta de soluções. É bem ativa nos grupos que promovem maior representatividade de minorias na tecnologia, começou uma comunidade de Agile no litoral de SP ( Caiçara Ágil) e embarcou em mais comunidades, ajudando no Baixada Nerd e no Devs JavaGirl, tem como lema profissional o compartilhamento de conhecimento.",
-        "social": [
-          { "type": "linkedin", "url": "https://www.linkedin.com/in/paula-macedo-santana-dev/" }
-        ]
-      }
     }
   ],
   "sponsors": {
