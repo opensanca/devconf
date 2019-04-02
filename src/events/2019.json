@@ -213,7 +213,8 @@
     ],
     "diamond": [
       { "name": "Invillia", "link": "https://invillia.com", "logo": "/assets/img/logos/invillia.png" },
-      { "name": "Luz Soluções Financeiras", "link": "https://www.luz-ef.com", "logo": "/assets/img/logos/luz.png" }
+      { "name": "Luz Soluções Financeiras", "link": "https://www.luz-ef.com", "logo": "/assets/img/logos/luz.png" },
+      { "name": "SoftBox", "link": "https://www.softbox.com.br", "logo": "/assets/img/logos/softbox.png" }
     ],
     "gold": [
       { "name": "Exactaworks", "link": "https://www.exactaworks.com.br/", "logo": "/assets/img/logos/logo_exacta_works.png" },
