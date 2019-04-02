@@ -158,7 +158,7 @@
         "company": "Codeminer42 & OmniTrade",
         "photo": "assets/img/2019_fabio_akita.png",
         "priority": 4,
-        "bio": "Começou em TI aos 11 anos de idade quando recebeu seu primeiro certificado na área e desde então nunca mudou de foco. Aos 17 anos iniciou o curso de Sistemas de Informação na USP e aos 18 anos foi contratada pela IBM como programadora, na empresa também atuou em gestão de projetos, pré vendas e advocacy de IBM Cloud por mais de 5 anos, sendo reconhecida nacional e internacionalmente pela mesma. Hoje é a voz e a representante da Elastic - a empresa por trás dos projetos populares de código aberto: Elasticsearch, Kibana, Logstash e Beats - para a América Latina.",
+        "bio": "Fabio Akita é co-fundador da Codeminer 42, boutique de desenvolvimento de software trabalhando com clientes do Brasil e EUA desde 2011. Foi co-fundador e ex-organizador da Rubyconf Brasil de 2008 a 2016. Atualmente organiza a conferência The Conf, que vai pra 3a edição em 2019. Já realizou mais de 200 palestras em diversas cidades do Brasil, EUA, Europa e Ásia. Também é co-fundador da Omnitrade, corretora de criptomoedas. É influenciador em tecnologia, inicialmente com Ruby on Rails desde 2006 e hoje mantém canal no YouTube.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/akitaonrails" },
           { "type": "linkedin", "url": "http://www.linkedin.com/in/akitaonrails" },
