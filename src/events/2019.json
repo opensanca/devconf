@@ -247,6 +247,11 @@
       "name": "Linuxtips",
       "link": "https://www.linuxtips.com.br/",
       "logo": "/assets/img/logos/linuxtips.png"
+    },
+    {
+      "name": "Casa Do Código",
+      "link": "https://www.casadocodigo.com.br/",
+      "logo": "/assets/img/logos/casa-do-codigo.png"
     }
   ]
 }
