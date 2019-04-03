@@ -29,14 +29,14 @@
     },
     {
       "time": "09:00 - 10:00",
-      "title": "A ser definida",
-      "details": "",
+      "title": "Constuindo aplicações resilientes",
+      "details": "Nessa apresentação vamos discutir sobre alguns dos problemas mais comuns na hora de constribuir aplicações distribuídas, os efeitos que eles geram e como podemos contruir aplicações capazes de sobreviver nesses ambientes. Vamos entender como construir aplicações reslientes através destas práticas pra que possamos criar ambientes resistentes a falhas e que diminuiam o custo de operação.",
       "speaker": {
         "name": "Mauricio Linhares",
         "company": "Digital Ocean",
         "photo": "assets/img/2019_mauricio_linhares.jpeg",
         "priority": 6,
-        "bio": "",
+        "bio": "Maurício is a tech lead at the Edge team at DigitalOcean, where he works running the internal API gateway and the multiple projects that surround it. His main interests are distributed systems, DevOps and functional programming. He also co-hosts the Brazilian technology podcast https://hipsters.tech/",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/mauriciojr" },
           { "type": "linkedin", "url": "https://www.linkedin.com/in/mauriciolinhares/" },
