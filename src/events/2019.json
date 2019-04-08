@@ -29,7 +29,7 @@
     },
     {
       "time": "09:00 - 10:00",
-      "title": "Constuindo aplicações resilientes",
+      "title": "Construindo aplicações resilientes",
       "details": "Nessa apresentação vamos discutir sobre alguns dos problemas mais comuns na hora de constribuir aplicações distribuídas, os efeitos que eles geram e como podemos contruir aplicações capazes de sobreviver nesses ambientes. Vamos entender como construir aplicações reslientes através destas práticas pra que possamos criar ambientes resistentes a falhas e que diminuiam o custo de operação.",
       "speaker": {
         "name": "Mauricio Linhares",
