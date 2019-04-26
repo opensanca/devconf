@@ -222,7 +222,8 @@
       { "name": "iClinic", "link": "https://iclinic.com.br/", "logo": "/assets/img/logos/iclinc.png"}
     ],
     "bronze": [
-      { "name": "Liber", "link": "https://www.libercapital.com.br/", "logo": "/assets/img/logos/liber.jpg"}
+      { "name": "Liber", "link": "https://www.libercapital.com.br/", "logo": "/assets/img/logos/liber.jpg"},
+      { "name": "ContaAzul", "link": "https://contaazul.com.br", "logo": "/assets/img/logos/logo_contaazul.png"}
     ]
   },
   "partners": [
