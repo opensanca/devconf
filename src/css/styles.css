@@ -23,6 +23,13 @@ a {
   margin-right: 5rem;
 }
 
+.logo-devconf-lg {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  margin-right: 5rem;
+}
+
 .mobile-text {
   top: -4px;
   position: relative;
