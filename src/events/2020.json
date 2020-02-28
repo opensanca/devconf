@@ -28,8 +28,18 @@
       "title": "Abertura"
     },
     {
-      "time": "09:00 - 10:00",
-      "title": "Palestra 1"
+      "speaker": {
+        "name": "Elemar Jr.",
+        "company": "Eximia.co",
+        "photo": "assets/img/2020_elemar_jr.jpg",
+        "priority": 1,
+        "bio": "Atuo como consultor, curador e mentor  de tecnologias e negócios. sou  especialista em arquitetura de software, no desenvolvimento de soluções  com alta complexidade ou de alto custo computacional, e também tenho  expertise em estratégia para a inovação. Busco mais do que bons  produtos. desenvolvo ótimos negócios. Sou membro do time de desenvolvimento do RavenDB.  O banco de dados NoSQL desenvolvido pela Hibernating Rhinos é utilizado  por grandes players em todo o mundo. Na empresa, tenho a oportunidade de  trabalhar com profissionais também reconhecidos internacionalmente, como o Ayende. Sou Microsoft Most Valuable Professional (MVP) desde 2012 - um reconhecimento,  principalmente com tecnologias Microsoft. Participo como palestrante em  alguns dos mais prestigiados eventos de tecnologia e inovação, incluindo  QCON, TDC, DeveloperWeek e o TechEd.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/elemarjr" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/elemarjr/" },
+          { "type": "github", "url": "https://github.com/elemarjr" }
+        ]
+      }
     },
     {
       "time": "10:00 - 10:40",
