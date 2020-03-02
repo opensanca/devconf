@@ -42,8 +42,18 @@
       }
     },
     {
-      "time": "10:00 - 10:40",
-      "title": "Palestra 2"
+      "speaker": {
+        "name": "Felipe Gentil",
+        "company": "CargoX",
+        "photo": "assets/img/2020_gentil.jpg",
+        "priority": 2,
+        "bio": "Desenvolvedor desde 2011 e cozinheiro nas horas vagas! Trabalho com Ruby desde 2012 e atualmente trabalhando com Ruby e Python na CargoX, uma startup na área de transportes no Brasil, situada em São Paulo.",
+        "social": [
+          { "type": "twitter", "url": "https://twitter.com/fpgentil" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/felipepelizarogentil/" },
+          { "type": "github", "url": "https://github.com/fpgentil" }
+        ]
+      }
     },
     {
       "time": "10:40 - 11:00",
