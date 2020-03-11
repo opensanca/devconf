@@ -28,6 +28,9 @@
       "title": "Abertura"
     },
     {
+      "time": "-",
+      "title": "Priorizando dívidas técnicas e modernizando o legado como se tempo e dinheiro fossem importantes",
+      "details": "Desenvolver software novo é fantástico. Infelizmente, essa não é a realidade da maioria dos devs. Por isso, nesta palestra, falaremos sobre legado. Discutiremos conceitos relevantes e técnicas para priorizar e 'pagar' dívidas técnicas, modernizando de forma efetiva o legado.Iremos falar sobre ferramentas e atividades críticas para modernização saudável do legado.No final, todos estaremos um pouco mais preparados para melhorar aquele sistema que está cansado mas é bom sobretudo porque paga as contas.",
       "speaker": {
         "name": "Elemar Jr.",
         "company": "Eximia.co",
@@ -42,6 +45,9 @@
       }
     },
     {
+      "time": "-",
+      "title": "Uma jornada pelos seus microsserviços com BFF e GraphQL",
+      "details": "- Um aplicação com o tempo tende a crescer devido a demanda do negócio.<br> - Temos um problema! O que fazer?<br> - Separar o frontend e quebrar o backend em diversos serviços. E agora?<br> - Temos n problemas!<br>Em termos técnicos, o frontend precisa agora entender as diversas APIs e muitas vezes transformar os dados antes de exibir ao usuários final. E se adicionarmos um novo frontend, como um aplicativo mobile? BFF (backend for frontend) é um padrão que tem, por ideia principal, criar um backend único por frontend. E junto com GraphQL, onde toda a flexibilidade dos dados obtidos é dada ao próprio cliente. A ideia da palestra é mostrar o dinamismo que GraphQL nos dá pela sua capacidade de funcionar em diversos protocolos, e utilizar um padrão onde as APIs estão diretamente ligadas ao usuário final.",
       "speaker": {
         "name": "Felipe Gentil",
         "company": "CargoX",
@@ -60,11 +66,22 @@
       "title": "Coffee Break"
     },
     {
-      "time": "11:00 - 11:40",
-      "title": "Palestra 3"
+      "time": "-",
+      "title": "BERT: Por que todos precisam conhecer?",
+      "details": "BERT é um modelo de deep learning que apresentou os melhores resultados em 11 tasks de NLP. Essa nova tecnologia causa mudanças essênciais na forma que construímos modelos de processamento de linguagem natural. Porém, não é apenas a pessoa que trabalha com NLP que precisa conhecer sobre BERT. A partir do final de 2019, o que está por trás do sistema de buscas no Google é esta nova tecnologia que afeta cerca de 10% das procuras realizadas no buscador mais utilizado no mundo. Nesta palestra vamos conhecer o que está por trás do BERT, o porquê vai afetar as buscas em seu site e como se adaptar a esta tecnologia.",
+      "speaker": {
+        "name": "Thiago Gonçalves",
+        "company": "Alura",
+        "photo": "assets/img/2020_thiago.jpg",
+        "priority": 3,
+        "bio": "Apaixonado por dados e educação. Trabalho a quase 5 anos com Data Science (Ciência de Dados), iniciei a carreira em dados na Whirlpool - maior fabricante de eletrodomésticos do mundo, depois participei no desenvolvimento de modelos de NLP (Processamento de Linguagem Natural) em projetos de pesquisa para a Petrobrás. Atualmente sou um dos resoponsáveis pela área de Machine Learning e Data Science na Alura, a maior plataforma de ensino de tecnologia do Brasil. ",
+        "social": [
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/" }
+        ]
+      }
     },
     {
-      "time": "11:45 - 12:30",
+      "time": "-",
       "title": "Palestra 4"
     },
     {
