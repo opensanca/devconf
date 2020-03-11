@@ -52,7 +52,7 @@
         "name": "Felipe Gentil",
         "company": "CargoX",
         "photo": "assets/img/2020_gentil.jpg",
-        "priority": 2,
+        "priority": 3,
         "bio": "Desenvolvedor desde 2011 e cozinheiro nas horas vagas! Trabalho com Ruby desde 2012 e atualmente trabalhando com Ruby e Python na CargoX, uma startup na área de transportes no Brasil, situada em São Paulo.",
         "social": [
           { "type": "twitter", "url": "https://twitter.com/fpgentil" },
@@ -64,6 +64,22 @@
     {
       "time": "10:40 - 11:00",
       "title": "Coffee Break"
+    },
+    {
+      "time": "-",
+      "title": "-",
+      "speaker": {
+        "name": "Yasmin Benatti",
+        "company": "iFood",
+        "photo": "assets/img/2020_yasmin.jpg",
+        "priority": 2,
+        "bio": "Yasmin Benatti é dev iOS no time de Mobile Platform no iFood, é host do MovileCast e dos meetups Movile Tech Women e Cocoaheads Campinas. Apaixonada por diversidade, decoração de interiores, DIY e cafés coados.",
+        "social": [
+          { "type": "twitter", "url": "http://twitter.com/minbenatti" },
+          { "type": "linkedin", "url": "https://www.linkedin.com/in/yasminbenatti/" },
+          { "type": "github", "url": "https://github.com/yabenatti" }
+        ]
+      }
     },
     {
       "time": "-",
@@ -79,10 +95,6 @@
           { "type": "linkedin", "url": "https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/" }
         ]
       }
-    },
-    {
-      "time": "-",
-      "title": "Palestra 4"
     },
     {
       "time": "12:30 - 13:30",
