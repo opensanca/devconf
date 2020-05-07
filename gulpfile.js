@@ -8,7 +8,7 @@ var concat = require( 'gulp-concat' );
 var nano = require('gulp-cssnano' );
 var handlebars = require( 'gulp-compile-handlebars' );
 var rename = require( 'gulp-rename' );
-var files = [ 'index.html', '../assets/css/style.css' ];
+var files = [ 'index.html', './assets/css/styles.css' ];
 var handlebarsFiles = [ './views/**/*', eventFile ];
 var _ = require('lodash');
 
@@ -51,16 +51,17 @@ gulp.task( 'files', function() {
   gulp.src( files ).pipe( connect.reload() );
 });
 
+// Watch files
 gulp.task( 'watch', function() {
-  gulp.watch( files, [ 'files' ]);
-  gulp.watch( handlebarsFiles, [ 'hbs' ]);
-  gulp.watch( './src/css/**/*', [ 'hbs' ]);
+  gulp.watch( files, gulp.series('files'));
+  gulp.watch( handlebarsFiles, gulp.series('hbs'));
+  gulp.watch( './src/css/**/*', gulp.series('hbs'));
 });
 
 gulp.task( 'connect', function() {
   connect.server({ livereload: true });
 });
 
-gulp.task('build', [ 'hbs', 'css' ]);
+gulp.task('build', gulp.parallel('hbs', 'css'))
 
-gulp.task('default', [ 'build', 'connect', 'watch' ]);
+gulp.task('default', gulp.parallel('build', 'connect', 'watch'))
