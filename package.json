@@ -2,7 +2,7 @@
   "name": "devconf-page",
   "version": "1.0.0",
   "engines": {
-    "node": "6.11.1"
+    "node": "10.13.0"
   },
   "description": "landing page DevConf 2017",
   "main": "index.js",
