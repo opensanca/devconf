@@ -30,6 +30,7 @@
     {
       "time": "09:00 - 10:00",
       "title": "Construindo aplicações resilientes",
+      "record": "https://www.infoq.com/br/presentations/construindo-aplicacoes-resilientes/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
       "details": "Nessa apresentação vamos discutir sobre alguns dos problemas mais comuns na hora de constribuir aplicações distribuídas, os efeitos que eles geram e como podemos contruir aplicações capazes de sobreviver nesses ambientes. Vamos entender como construir aplicações reslientes através destas práticas pra que possamos criar ambientes resistentes a falhas e que diminuiam o custo de operação.",
       "speaker": {
         "name": "Mauricio Linhares",
@@ -47,6 +48,7 @@
     {
       "time": "10:00 - 10:40",
       "title": "Como entregar um banco com qualidade",
+      "record": "https://www.infoq.com/br/presentations/como-entregar-um-banco-com-qualidade/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
       "details": "Case de como o C6 Bank está fazendo para entregar software com qualidade.",
       "speaker": {
         "name": "Daniela Vieira",
@@ -67,6 +69,7 @@
     {
       "time": "11:00 - 11:40",
       "title": "Canary Release com Kubernetes e Istio",
+      "record": "https://www.infoq.com/br/presentations/canary-release-com-kubernetes-e-istio/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
       "details": "O Kubernetes suporta algumas técnicas de Deploy nativas,mas nenhuma delas dá o poder e abre tantas possibilidades como o Istio faz.Nessa talk falarei como fazer Canary Release utilizando Istio, entenderemos sua arquitetura e entraremos em tópicos como gerenciamento de tráfego, fault injection e mais.",
       "speaker": {
         "name": "Daniel Requena",
@@ -83,6 +86,7 @@
     {
       "time": "11:45 - 12:30",
       "title": "Desenvolvendo sistemas gigantes na internet com arquiteturas baseadas em eventos",
+      "record": "https://www.infoq.com/br/presentations/desenvolvendo-sistemas-gigantes-na-internet-com-arquiteturas-baseadas-em-eventos/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
       "speaker": {
         "name": "Paula Santana",
         "company": "Itaú Unibanco",
@@ -101,6 +105,7 @@
     {
       "time": "13:30 - 14:10",
       "title": "Integrando aplicações, o que temos nas fronteiras dos microservices",
+      "record": "https://www.infoq.com/br/presentations/integrando-aplicacoes-o-que-temos-nas-fronteiras-dos-microservices/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
       "details": "A crescente adoção da prática de se construir aplicações utilizando microservices chama a atenção dos engenheiros e arquitetos de software sobre quais formas de integrações podem ser adotadas para cada tipo de serviço existente. Ao longo dessa talk serão apresentados padrões de integrações existentes no mercado,  apresentando o seu funcionamento, e como eles são úteis nas integrações entre serviços. Serão discutido estilos de integrações, baseados em RPC, apis REST, e comunicação em tempo real, desmistificando seus padrões e protocolos, procurando trazer um entendimento claro e objetivo sobre cada um deles.",
       "speaker": {
         "name": "Eduardo Cesar",
@@ -117,7 +122,8 @@
     {
       "time": "14:15 - 14:55",
       "title": "DDD & Microservices -> Do negócio à arquitetura",
-			"details": "O Domain Driven Design é um conjunto de princípios de construção de software baseado no profundo entendimento do negócio. Naturalmente, uma das áreas impactadas por esses princípios é a arquitetura. Em se tratando de Microsserviços, é ainda mais importante que a construção e organização dos serviços esteja alinhada com o negócio, para que se tenha o maior ganho de performance e eficiência na manutenção.\nNessa palestra discutiremos como modelar uma solução em Microsserviços utilizando conceitos do DDD.",
+      "record": "https://www.infoq.com/br/presentations/ddd-e-microservices-do-negocio-a-arquitetura/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
+      "details": "O Domain Driven Design é um conjunto de princípios de construção de software baseado no profundo entendimento do negócio. Naturalmente, uma das áreas impactadas por esses princípios é a arquitetura. Em se tratando de Microsserviços, é ainda mais importante que a construção e organização dos serviços esteja alinhada com o negócio, para que se tenha o maior ganho de performance e eficiência na manutenção.\nNessa palestra discutiremos como modelar uma solução em Microsserviços utilizando conceitos do DDD.",
       "speaker": {
         "name": "Graziella Bonizi",
         "company": "Lambda3",
@@ -134,7 +140,8 @@
     {
       "time": "15:00 - 15:40",
       "title": "Observabilidade com o Elastic Stack",
-			"details": "Ao falarmos sobre observabilidade a reação mais comum é “O que é isso?”, mas também coisas como “Acabamos de lançar uma iniciativa de observabilidade mas ainda estamos descobrindo exatamente como fazer isso” e finalmente, algumas organizações já consideram observabilidade parte integrante de como projetam e constroem seus produtos e serviços. Dado que o termo ainda está ganhando força nessa palestra irei desmistificar o que é observabilidade para nós da Elastic, como nós entendemos isso e como utilizar o Stack com esse intuito.",
+      "record": "https://www.infoq.com/br/presentations/observabilidade-com-o-elastic-stack/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
+      "details": "Ao falarmos sobre observabilidade a reação mais comum é “O que é isso?”, mas também coisas como “Acabamos de lançar uma iniciativa de observabilidade mas ainda estamos descobrindo exatamente como fazer isso” e finalmente, algumas organizações já consideram observabilidade parte integrante de como projetam e constroem seus produtos e serviços. Dado que o termo ainda está ganhando força nessa palestra irei desmistificar o que é observabilidade para nós da Elastic, como nós entendemos isso e como utilizar o Stack com esse intuito.",
       "speaker": {
         "name": "Priscilla Parodi",
         "company": "Elastic",
@@ -152,7 +159,8 @@
     },
     {
       "time": "16:00 - 17:00",
-      "title": "A ser definida",
+      "title": "Restrição == Inovação",
+      "record": "https://www.infoq.com/br/presentations/restricao-inovacao/?itm_source=presentations_about_devconf-2019&itm_medium=link&itm_campaign=devconf-2019",
       "speaker": {
         "name": "Fábio Akita",
         "company": "Codeminer42 & OmniTrade",
@@ -197,6 +205,7 @@
       }
     ]
   },
+  "albumLink": "https://drive.google.com/drive/folders/1sE8y9iOZK6bZxsobfoU2Ue7NaXauOKKu",
   "pastEditions": [
     {
       "title": "DevConf 2018",
