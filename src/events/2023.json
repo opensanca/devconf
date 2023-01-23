@@ -12,6 +12,20 @@
     "address": "",
     "tickets": {
       "available": false
+    },
+    "eventSchema": {
+      "enabled": false,
+      "offerURL": "#",
+      "startDate": "2023-05-20T08:00",
+      "endDate": "2023-05-20T19:00",
+      "location": {
+        "name": "TBD",
+        "addressCountry": "BRA",
+        "streetAddress": "TBD",
+        "addressRegion": "SP",
+        "addressLocality": "TBD",
+        "postalCode": "TBD"
+      }
     }
   },
   "sympla": {
